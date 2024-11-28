@@ -2,7 +2,7 @@
 title:  Soverents Commons
 description: The Sove.re Community
 published: true
-date: 2024-11-28T14:45:09.615Z
+date: 2024-11-28T15:27:03.135Z
 tags: meta
 editor: markdown
 dateCreated: 2024-11-28T14:35:15.788Z
@@ -10,7 +10,9 @@ dateCreated: 2024-11-28T14:35:15.788Z
 
 Sove.re is community commons infrastructure to fill a communication gap in the network-societies movement.
 
-"Soverent" is a neologism and portmanteau combining the word "sovereign" (as in autonomous) and constituent (as in a part of a whole) to emphasize the dual aspecs of agency and community inherent in network-societies. Other terms describing people interested in this movement, such as self-sovereign, fail to encompass the collaborative and social aspect that is integral to the philosophy. Feel free to use the word in other contexts if it is useful to you, [nobody owns it](/meta/License).
+> "Soverent" is a neologism and portmanteau combining the word "sovereign" (as in autonomous) and constituent (as in a part of a whole) to emphasize the dual aspecs of agency and community inherent in network-societies. Other terms describing people interested in this movement, such as self-sovereign, fail to encompass the collaborative and social aspect that is integral to the philosophy. Feel free to use the word in other contexts if it is useful to you, [nobody owns it](/meta/License).
+> 
+{.is-info}
 
 # Forum.sove.re
 
