@@ -2,7 +2,7 @@
 title: About
 description: About the Sove.re project
 published: true
-date: 2024-11-28T14:21:12.740Z
+date: 2024-11-28T14:35:39.415Z
 tags: meta
 editor: markdown
 dateCreated: 2024-11-28T09:28:36.513Z
