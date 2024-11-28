@@ -2,7 +2,7 @@
 title:  Soverents Commons
 description: The Sove.re Community
 published: true
-date: 2024-11-28T14:41:30.563Z
+date: 2024-11-28T14:43:13.267Z
 tags: meta
 editor: markdown
 dateCreated: 2024-11-28T14:35:15.788Z
@@ -32,7 +32,7 @@ Sove.re is also for individuals who want to contribute to the network society pr
 
 # Who is behind Sove.re?
 
-Sove.re was initialized by [Riso](https://b0y.eu). Riso has been contributing to open source software for close to two decades, and blockchain for over a decade. He drafted a protocol for decentralized ETH staking which later went on to become [RocketPool](https://rocketpool.net), key Ethereum infrastructure.
+Sove.re was initialized by [Riso](https://b0y.eu). Riso has been contributing to open source software for close to two decades, and blockchain for over a decade. He drafted a protocol for decentralized ETH staking which later went on to become [RocketPool](https://rocketpool.net), a piece of integral Ethereum infrastructure.
 
 As soon as possible others will be invited to moderate and administrate the forum and wiki, and eventually the hosting infrastructure itself can be decentralized.
 
