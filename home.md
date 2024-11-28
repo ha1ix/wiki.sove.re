@@ -2,15 +2,15 @@
 title:  Soverents Commons
 description: The Sove.re Community
 published: true
-date: 2024-11-28T14:43:13.267Z
+date: 2024-11-28T14:45:09.615Z
 tags: meta
 editor: markdown
 dateCreated: 2024-11-28T14:35:15.788Z
 ---
 
-The idea behind Sove.re is to provide commons infrastructure to fill a communication gap in the network-societies movement.
+Sove.re is community commons infrastructure to fill a communication gap in the network-societies movement.
 
-"Soverent" is a neologism and portmanteau combining the word "sovereign" (as in autonomous) and constituent (as in a part of a whole) to emphasize the agency/liberty/responsilbility of severeignity with the cooperative/community inherent in constituency. Other terms describing people interested in this movement, such as self-sovereign, fail to encompass the collaborative and social aspect that is integral to the philosophy. Feel free to use the word in other contexts if it is useful to you, [nobody owns it](/meta/License).
+"Soverent" is a neologism and portmanteau combining the word "sovereign" (as in autonomous) and constituent (as in a part of a whole) to emphasize the dual aspecs of agency and community inherent in network-societies. Other terms describing people interested in this movement, such as self-sovereign, fail to encompass the collaborative and social aspect that is integral to the philosophy. Feel free to use the word in other contexts if it is useful to you, [nobody owns it](/meta/License).
 
 # Forum.sove.re
 
@@ -32,7 +32,7 @@ Sove.re is also for individuals who want to contribute to the network society pr
 
 # Who is behind Sove.re?
 
-Sove.re was initialized by [Riso](https://b0y.eu). Riso has been contributing to open source software for close to two decades, and blockchain for over a decade. He drafted a protocol for decentralized ETH staking which later went on to become [RocketPool](https://rocketpool.net), a piece of integral Ethereum infrastructure.
+Sove.re was initialized by [Riso](https://b0y.eu). Riso has been contributing to open source software for close to two decades, and blockchain for over a decade. He drafted a protocol for decentralized ETH staking which later went on to become [RocketPool](https://rocketpool.net), a piece of key Ethereum infrastructure.
 
 As soon as possible others will be invited to moderate and administrate the forum and wiki, and eventually the hosting infrastructure itself can be decentralized.
 
