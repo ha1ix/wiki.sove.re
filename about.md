@@ -2,7 +2,7 @@
 title: About
 description: About the Sove.re project
 published: true
-date: 2024-11-28T11:16:31.982Z
+date: 2024-11-28T14:16:26.207Z
 tags: meta
 editor: markdown
 dateCreated: 2024-11-28T09:28:36.513Z
@@ -10,7 +10,7 @@ dateCreated: 2024-11-28T09:28:36.513Z
 
 # The Soverents Community
 
-The idea behind Sove.re is to provide commons infrastructure to fill a communication gap in the new network societies movement.
+The idea behind Sove.re is to provide commons infrastructure to fill a communication gap in the network-societies movement.
 
 "Soverent" is a neologism and portmanteau combining the word "sovereign" (as in autonomous) and constituent (as in a part of a whole) to emphasize the agency/liberty/responsilbility of severeignity with the cooperative/community inherent in constituency. Other terms describing people interested in this movement, such as self-sovereign, fail to encompass the collaborative and social aspect that is integral to the philosophy. Feel free to use the word in other contexts if it is useful to you, [nobody owns it](/meta/License).
 
