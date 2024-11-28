@@ -2,13 +2,11 @@
 title:  Soverents Commons
 description: The Sove.re Community
 published: true
-date: 2024-11-28T14:41:11.067Z
+date: 2024-11-28T14:41:30.563Z
 tags: meta
 editor: markdown
 dateCreated: 2024-11-28T14:35:15.788Z
 ---
-
-# The Soverents Community
 
 The idea behind Sove.re is to provide commons infrastructure to fill a communication gap in the network-societies movement.
 
