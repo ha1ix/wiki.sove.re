@@ -2,7 +2,7 @@
 title: Software
 description: Software for human flourishing
 published: true
-date: 2024-11-29T11:08:46.277Z
+date: 2024-11-29T13:27:03.962Z
 tags: technology, software
 editor: markdown
 dateCreated: 2024-11-28T14:28:56.018Z
@@ -18,6 +18,8 @@ These are lower-level projects that are useful for others to build with. They ge
 ## [Identity](/Technology/Software/Identity)
 ## [Financial](/Technology/Software/Financial)
 ## [Communication](/Technology/Software/Communication)
+## [Privacy](/Technology/Software/Privacy)
+Lots of crossover with other software areas.
 ## [Programmable Cryptography](/Technology/Software/Programmable-Cryptography)
 Not specific software but an important domain of research.
 
