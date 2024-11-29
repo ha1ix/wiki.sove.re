@@ -2,14 +2,14 @@
 title: Zuzalu
 description: 
 published: true
-date: 2024-11-29T14:46:48.304Z
+date: 2024-11-29T15:19:31.682Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-29T13:47:19.199Z
 ---
 
 # Overview
-Following a 2021 blog post called [Crypto-Cities](/Network-Societies/Crypto-Cities-VB), Zuzalu was an experimental pop-up community established in 2023 in Montenegro, combining elements of tech conferences, hacker houses, and intentional communities. The project hosted 200 residents from diverse regions and fields for a two-month period "to blend a variety of cultures fostering an environment where innovative experiments could make positive impacts on the world." It has inspired a series of other [Pop-Ups](/Network-Societies/Pop-Ups), sometimes referred to as [ZuVillages.](/Network-Societies/Pop-ups/ZuVillage)
+Following a 2021 blog post called [Crypto-Cities](/Network-Societies/Crypto-Cities-VB) and another about [Network States](/Network-Societies/Network-States-VB) by Vitalik Buterin, Zuzalu was an experimental pop-up community established in 2023 in Montenegro, combining elements of tech conferences, hacker houses, and intentional communities. The project hosted 200 residents from diverse regions and fields for a two-month period "to blend a variety of cultures fostering an environment where innovative experiments could make positive impacts on the world." It has inspired a series of other [Pop-Ups](/Network-Societies/Pop-Ups), sometimes referred to as [ZuVillages.](/Network-Societies/Pop-ups/ZuVillage)
 
 Vitalik wrote about his Zuzalu experience in an article, [Why I Built Zuzalu](/Network-Societies/Pop-Ups/Zuzalu/Why-VB).
 
