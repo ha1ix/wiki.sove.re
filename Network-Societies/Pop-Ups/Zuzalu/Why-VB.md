@@ -2,15 +2,16 @@
 title: "Why I Built Zuzalu"
 description: article by Vitalik Buterin
 published: true
-date: 2024-11-29T14:12:29.207Z
+date: 2024-11-29T14:24:29.303Z
 tags: zuzalu
 editor: markdown
 dateCreated: 2024-11-29T14:12:29.207Z
 ---
 
 Read the original [Palladium article](https://www.palladiummag.com/2023/10/06/why-i-built-zuzalu/). The entirety of the original article is reproduced below.
-
-# Why I Built Zuzalu
+<details>
+<summary> Complete article </summary>
+  
 *Vitalik Buterin is the founder of Ethereum. You can follow him at @vitalik.eth.
 13–17 minutes*
 
@@ -74,3 +75,6 @@ And so this leaves the question: where do we go from here? There are plenty of h
 Monasteries are another example; a few years ago, the philosopher Samo Burja asked why there are no monasteries dedicated to perfecting software, given that many software engineers have made enough money and now desire personal spiritual progress. Ultimately, the Zuzalu community does have ambitions that stretch somewhat higher than creating universities and monasteries, even if they are lower than fixing global politics. And in any case, the model that makes sense to apply somewhere new is rarely exactly a carbon copy of any specific thing that came before.
 
 My own prediction is that Zuzalu will in part become a structure that has aspects of universities, monasteries, and digital nomad hubs. But it will also introduce entirely new activities like “incubating” novel technologies, including social technologies, by testing them out within a dedicated community. It will also find its niche in “the meta” by being a gathering spot for the future builders of new physical places and new societies of all kinds. That said, there is a long way to go. Many paths still unexplored or even unknown, and so the journey is just beginning.
+</details>
+
+
