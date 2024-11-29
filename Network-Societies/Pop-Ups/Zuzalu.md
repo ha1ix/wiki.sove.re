@@ -2,16 +2,38 @@
 title: Zuzalu
 description: 
 published: true
-date: 2024-11-29T14:10:00.475Z
+date: 2024-11-29T14:41:58.780Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-29T13:47:19.199Z
 ---
 
-# What is Zuzalu
-## 2023: First Zuzalu
+## Overview
+Following a 2021 blog post called [Crypto-Cities](/Network-Societies/Crypto-Cities-VB), Zuzalu was an experimental pop-up community established in 2023 in Montenegro, combining elements of tech conferences, hacker houses, and intentional communities. The project hosted 200 residents from diverse regions and fields for a two-month period "to blend a variety of cultures fostering an environment where innovative experiments could make positive impacts on the world." It has inspired a series of other [Pop-Ups](/Network-Societies/Pop-Ups), sometimes referred to as [ZuVillages.](/Network-Societies/Pop-ups/ZuVillage)
 
-The first idea of Zuzalu started on a post [Crypto-Cities](/Network-Societies/Crypto-Cities-VB). Over time the idea manifested to an experiment with the first iteration being: Zuzalu Montenegro. The goal: Create a pop-up city that houses 200+ people from a diverse variety of regions and fields together for 2 months aimed to blend a variety of cultures fostering an environment where innovative experiments could make positive impacts on the world. To learn more about the idea behind Zuzalu, read [Why I Built Zuzalu](/Network-Societies/Pop-Ups/Zuzalu/Why-VB).
+Vitalik wrote about his Zuzalu experience in an article, [Why I Built Zuzalu](/Network-Societies/Pop-Ups/Zuzalu/Why-VB).
+
+
+## Key Features
+- **Duration**: Two months (starting March 25, 2023)
+- **Location**: Resort in Montenegro
+- **Population**: ~200 residents
+- **Focus Areas**: Ethereum/crypto, longevity research, biotech
+
+## Notable Innovations
+- **Zupass**: Identity system using zero-knowledge proofs
+- **Community Structure**: Blend of planned and bottom-up organization
+- **Dining**: Longevity-focused meal program based on Bryan Johnson's Blueprint
+
+## Demographics
+- Internationally diverse (no country >33% of attendees)
+- Primary demographics: young professionals, digital nomads
+- Major participant sources: USA and China
+
+
+
+# Zuzalu as an adjective 
+via [Zuzalu.city](https://zuzalu.gitbook.io/zuzalu-beta-docs/welcome/what-is-zuzalu#id-2023-first-zuzalu)
 
 ## 2024: Open Frontier
 
