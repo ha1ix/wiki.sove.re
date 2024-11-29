@@ -2,7 +2,7 @@
 title: Zuzalu.city
 description: Zuzalu Software
 published: true
-date: 2024-11-29T15:00:55.270Z
+date: 2024-11-29T15:09:32.303Z
 tags: software, zuzalu
 editor: markdown
 dateCreated: 2024-11-29T14:48:29.398Z
@@ -12,8 +12,8 @@ dateCreated: 2024-11-29T14:48:29.398Z
 * "Zuzalu.city is a decentralised open-source operating system that connects users to interoperable Ethereum ecosystem applications for innovating their communities."
 
 # Technologies
-* Their [Zupass](https://zupass.org/) has been used as a login/identity provider for multiple ZuVillages.
-
+* [Zupass](https://zupass.org/) has been used as a login/identity provider for multiple ZuVillages.
+* [Zupoll](https://zupoll.org/) for polling.
 # via [Zupass.city](https://zuzalu.gitbook.io/zuzalu-beta-docs/welcome/zuzalu.city-vision-and-mission/2024-roadmap)
 Reproduced here verbatim for posterity and because they reflect a good deal of the network-societies ethos.
 ## Principles
