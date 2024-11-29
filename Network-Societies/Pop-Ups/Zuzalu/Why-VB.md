@@ -2,13 +2,15 @@
 title: "Why I Built Zuzalu"
 description: article by Vitalik Buterin
 published: true
-date: 2024-11-29T14:24:29.303Z
+date: 2024-11-29T14:29:14.003Z
 tags: zuzalu
 editor: markdown
 dateCreated: 2024-11-29T14:12:29.207Z
 ---
 
-Read the original [Palladium article](https://www.palladiummag.com/2023/10/06/why-i-built-zuzalu/). The entirety of the original article is reproduced below.
+Article by Vitalik Buterin explaining the purpose of Zuzalu as an experiment to see if online communities (particularly crypto) could successfully "materialize" into physical spaces and create intentional communities. 
+* Read the original [Palladium article](https://www.palladiummag.com/2023/10/06/why-i-built-zuzalu/). 
+### The entirety of the original article is reproduced below.
 <details>
 <summary> Complete article </summary>
   
