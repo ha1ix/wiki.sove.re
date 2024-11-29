@@ -2,7 +2,7 @@
 title: Zuzalu
 description: 
 published: true
-date: 2024-11-29T13:57:35.753Z
+date: 2024-11-29T14:10:00.475Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-29T13:47:19.199Z
@@ -11,7 +11,7 @@ dateCreated: 2024-11-29T13:47:19.199Z
 # What is Zuzalu
 ## 2023: First Zuzalu
 
-The first idea of Zuzalu started on a post [Crypto-Cities](/Network-Societies/Crypto-Cities-VB). Over time the idea manifested to an experiment with the first iteration being: Zuzalu Montenegro. The goal: Create a pop-up city that houses 200+ people from a diverse variety of regions and fields together for 2 months aimed to blend a variety of cultures fostering an environment where innovative experiments could make positive impacts on the world. To learn more about the idea behind Zuzalu, read Why I Built Zuzalu.
+The first idea of Zuzalu started on a post [Crypto-Cities](/Network-Societies/Crypto-Cities-VB). Over time the idea manifested to an experiment with the first iteration being: Zuzalu Montenegro. The goal: Create a pop-up city that houses 200+ people from a diverse variety of regions and fields together for 2 months aimed to blend a variety of cultures fostering an environment where innovative experiments could make positive impacts on the world. To learn more about the idea behind Zuzalu, read [Why I Built Zuzalu](/Network-Societies/Pop-Ups/Zuzalu/Why-VB).
 
 ## 2024: Open Frontier
 
