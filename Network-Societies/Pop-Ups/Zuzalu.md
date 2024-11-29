@@ -2,13 +2,13 @@
 title: Zuzalu
 description: 
 published: true
-date: 2024-11-29T14:41:58.780Z
+date: 2024-11-29T14:46:48.304Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-29T13:47:19.199Z
 ---
 
-## Overview
+# Overview
 Following a 2021 blog post called [Crypto-Cities](/Network-Societies/Crypto-Cities-VB), Zuzalu was an experimental pop-up community established in 2023 in Montenegro, combining elements of tech conferences, hacker houses, and intentional communities. The project hosted 200 residents from diverse regions and fields for a two-month period "to blend a variety of cultures fostering an environment where innovative experiments could make positive impacts on the world." It has inspired a series of other [Pop-Ups](/Network-Societies/Pop-Ups), sometimes referred to as [ZuVillages.](/Network-Societies/Pop-ups/ZuVillage)
 
 Vitalik wrote about his Zuzalu experience in an article, [Why I Built Zuzalu](/Network-Societies/Pop-Ups/Zuzalu/Why-VB).
@@ -32,7 +32,7 @@ Vitalik wrote about his Zuzalu experience in an article, [Why I Built Zuzalu](/N
 
 
 
-# Zuzalu as an adjective 
+# The Zuzalu Movement 
 via [Zuzalu.city](https://zuzalu.gitbook.io/zuzalu-beta-docs/welcome/what-is-zuzalu#id-2023-first-zuzalu)
 
 ## 2024: Open Frontier
@@ -54,3 +54,6 @@ At the end of 2023, the Zuzalu frontier was opened:
 In 2024, Zuzalu has grown into a decentralised movement with many initiatives. 
 
 ⚠️ There is no official Zuzalu account, so watch out for anything that claims to be a single source of truth for "Zuzalu" as a whole. 
+
+# See also
+[Zuzalu.city](/Technology/Software/Zuzalu-City) (Zuzalu Software)
