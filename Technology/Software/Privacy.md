@@ -2,7 +2,7 @@
 title: Privacy Software
 description: 
 published: true
-date: 2024-11-29T13:28:28.048Z
+date: 2024-11-29T13:28:29.295Z
 tags: technology, software, privacy
 editor: markdown
 dateCreated: 2024-11-29T13:28:28.048Z

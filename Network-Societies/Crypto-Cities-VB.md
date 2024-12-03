@@ -2,7 +2,7 @@
 title: "Crypto Cities"
 description: Blog post by Vitalik Buterin
 published: true
-date: 2024-11-29T14:26:36.434Z
+date: 2024-11-29T14:26:38.406Z
 tags: zuzalu
 editor: markdown
 dateCreated: 2024-11-29T14:05:20.771Z
