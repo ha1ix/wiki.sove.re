@@ -2,7 +2,7 @@
 title: Zuzalu
 description: 
 published: true
-date: 2024-12-04T08:29:36.966Z
+date: 2024-12-04T08:31:16.658Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-29T13:47:19.199Z
@@ -20,6 +20,7 @@ Vitalik wrote about his Zuzalu experience in an article, [Why I Built Zuzalu](/N
     
   ![vitalik_explaining_zuzalu.png](/vitalik_explaining_zuzalu.png)
   ![coordination_state_zuzalu_event_pic.png](/coordination_state_zuzalu_event_pic.png)
+  ![zuzalu_dashboard_screenshot.png](/zuzalu_dashboard_screenshot.png)
   ![zuzalu_schedule.jpeg](/zuzalu_schedule.jpeg)
   ![zuzalu_townhall_activation.png](/zuzalu_townhall_activation.png)
  </details>
