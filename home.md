@@ -2,7 +2,7 @@
 title:  Soverents Commons
 description: The Sove.re Community
 published: true
-date: 2024-12-04T08:57:44.025Z
+date: 2024-12-04T08:58:01.671Z
 tags: meta
 editor: markdown
 dateCreated: 2024-11-28T14:35:15.788Z
@@ -34,7 +34,7 @@ Sove.re is also for individuals who want to contribute to the network society pr
 
 # Who is behind Sove.re?
 
-Sove.re was initialized by [Riso](/People/b0y) while attending [Edge City Lanna](/Network-Societies/Pop-Ups/Edge-City#lanna). 
+Sove.re was initialized by [Riso Nonx](/People/b0y) while attending [Edge City Lanna](/Network-Societies/Pop-Ups/Edge-City#lanna). 
 
 As soon as possible others will be invited to moderate and administrate the forum and wiki via DAO governance, and eventually the hosting infrastructure itself can be decentralized.
 
