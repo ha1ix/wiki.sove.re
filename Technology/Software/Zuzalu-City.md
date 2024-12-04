@@ -2,7 +2,7 @@
 title: Zuzalu.city
 description: Zuzalu Software
 published: true
-date: 2024-11-29T15:09:33.773Z
+date: 2024-12-04T08:30:57.616Z
 tags: software, zuzalu
 editor: markdown
 dateCreated: 2024-11-29T14:48:29.398Z
@@ -14,6 +14,17 @@ dateCreated: 2024-11-29T14:48:29.398Z
 # Technologies
 * [Zupass](https://zupass.org/) has been used as a login/identity provider for multiple ZuVillages.
 * [Zupoll](https://zupoll.org/) for polling.
+<details>
+  <summary>
+    
+## Screenshots</summary>
+    
+  ![zucast_screenshot.png](/zucast_screenshot.png)
+  ![zupass_screenshot.png](/zupass_screenshot.png)
+  ![zupoll_screenshot.png](/zupoll_screenshot.png)
+  ![zuzalu_stamp_screenshot.png](/zuzalu_stamp_screenshot.png)
+</details>
+
 # via [Zupass.city](https://zuzalu.gitbook.io/zuzalu-beta-docs/welcome/zuzalu.city-vision-and-mission/2024-roadmap)
 Reproduced here verbatim for posterity and because they reflect a good deal of the network-societies ethos.
 ## Principles
