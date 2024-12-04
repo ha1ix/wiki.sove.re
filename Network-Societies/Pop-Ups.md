@@ -2,7 +2,7 @@
 title: Pop Ups
 description: temporary societies in situ
 published: true
-date: 2024-12-04T08:01:58.909Z
+date: 2024-12-04T08:11:14.485Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-29T13:43:33.619Z
@@ -23,12 +23,31 @@ The following is reproduced from a Devcon7 talk.^1^
 * Founded in Chautauqua, New York but spread throughout the country 
 * Description: Nationwide adult education and social movement.
 * What was it? Brought lectures, music, and cultural activities to rural America.
+### 19th Century Utopian Communities
+* Early to Mid-19th Century
+* Description: Intentional communities experimenting with communal living and shared property.
+* Problem Addressed: Responded to social inequalities and industrialization's negative effects by seeking ideal, cooperative societies.
+* Examples: New Harmony (1825), Brook Farm (1841).
+* Impact: Influenced later social reform movements and ongoing discussions about communal living and cooperative economics.
 ### Black Mountain College
 * Years Active: 1933 – 1957
 * Description: An experimental college emphasizing arts and holistic education.
 * Purpose: Founded by John Andrew Rice in response to rigid traditional education.
 * Faculty and Students: John Cage (composer), Merce Cunningham (choreographer), Buckminster Fuller (architect who invented geodesic dome there), Willem de Kooning (painter)
 * Influenced a lot of American culture through  avant-garde art, music, and progressive education.
+### Commune Movement
+* 1960s – 1970s
+* Description: Countercultural groups forming intentional communities focused on shared living, peace, and alternative lifestyles.
+* Problem Addressed: Responded to dissatisfaction with mainstream societal values, materialism, and opposition to the Vietnam War.
+* Statistics: Estimated 2,000–3,000 communes in the U.S. during the peak.
+* Impact: Challenged conventional norms, contributing to environmentalism and alternative education growth.
+### Esalen Institute
+* Founded: 1962
+* Description: A center for humanistic alternative education exploring human potential, consciousness, and personal growth.
+* Problem Addressed: Responded to the constraints of conventional psychology and spirituality, promoting holistic personal development.
+* Impact: Central to the Human Potential Movement, influencing psychotherapy, alternative medicine, and spiritual practices.
+* Hosted influential thinkers like Abraham Maslow and Alan Watts.
+
 ### Auroville
 * Years active: 1968 — Present
 * Description: An international township in India aiming for human unity and sustainable living.
