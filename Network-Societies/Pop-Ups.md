@@ -2,7 +2,7 @@
 title: Pop Ups
 description: temporary societies in situ
 published: true
-date: 2024-12-04T08:11:14.485Z
+date: 2024-12-04T08:18:24.080Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-29T13:43:33.619Z
@@ -11,7 +11,14 @@ dateCreated: 2024-11-29T13:43:33.619Z
 # Overview
 
 # History
+
+## [Zuzalu](/Network-Societies/Pop-Ups/Zuzalu)
+The first contemporary pop up city experiment in Montenegro, March 25-May 25, 2023.
+
+<details><summary>
+
 ## Lineage
+</summary>
 The following is reproduced from a Devcon7 talk.^1^ 
 ### Enlightenment Salons
 * 17th – 18th Century
@@ -66,12 +73,16 @@ The following is reproduced from a Devcon7 talk.^1^
 * Attendance: Grown from 20 participants to around 80,000.
 * Impact: Influenced contemporary art, community building, and the concept of participatory culture.
 
+</details>
+
+
+
 # Ecosystem
 
-## [Zuzalu](/Network-Societies/Pop-Ups/Zuzalu)
-The first contemporary pop up city experiment in this current timeline.
+
 ## [Edge City](/Network-Societies/Pop-Ups/Edge-City)
 A series of successful pop-ups all over the world, co-founded by one of the organizers of the original Zuzalu.
+## The Mu
 
 # Meetups
 
