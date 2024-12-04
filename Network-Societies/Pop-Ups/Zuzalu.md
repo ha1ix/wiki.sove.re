@@ -2,7 +2,7 @@
 title: Zuzalu
 description: 
 published: true
-date: 2024-11-29T15:20:55.172Z
+date: 2024-12-04T08:26:27.987Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-29T13:47:19.199Z
@@ -13,12 +13,28 @@ Following a 2021 blog post called [Crypto-Cities](/Network-Societies/Crypto-Citi
 
 Vitalik wrote about his Zuzalu experience in an article, [Why I Built Zuzalu](/Network-Societies/Pop-Ups/Zuzalu/Why-VB).
 
+<details>
+  <summary>
+    
+## Photos</summary>
+    
+  ![vitalik_explaining_zuzalu.png](/vitalik_explaining_zuzalu.png)
+  ![coordination_state_zuzalu_event_pic.png](/coordination_state_zuzalu_event_pic.png)
+  ![zucast_screenshot.png](/zucast_screenshot.png)
+  ![zupass_screenshot.png](/zupass_screenshot.png)
+  ![zupoll_screenshot.png](/zupoll_screenshot.png)
+  ![zuzalu_stamp_screenshot.png](/zuzalu_stamp_screenshot.png)
+  ![zuzalu_dashboard_screenshot.png](/zuzalu_dashboard_screenshot.png)
+  ![zuzalu_schedule.jpeg](/zuzalu_schedule.jpeg)
+  ![zuzalu_townhall_activation.png](/zuzalu_townhall_activation.png)
+ </details>
 
 ## Key Features
 - **Duration**: Two months (starting March 25, 2023)
 - **Location**: Resort in Montenegro
 - **Population**: ~200 residents
 - **Focus Areas**: Ethereum/crypto, longevity research, biotech
+
 
 ## Notable Innovations
 - **Zupass**: Identity system using zero-knowledge proofs
@@ -29,6 +45,7 @@ Vitalik wrote about his Zuzalu experience in an article, [Why I Built Zuzalu](/N
 - Internationally diverse (no country >33% of attendees)
 - Primary demographics: young professionals, digital nomads
 - Major participant sources: USA and China
+
 
 
 
