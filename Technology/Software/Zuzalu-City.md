@@ -2,7 +2,7 @@
 title: Zuzalu.city
 description: Zuzalu Software
 published: true
-date: 2024-12-04T08:30:57.616Z
+date: 2024-12-04T10:26:57.168Z
 tags: software, zuzalu
 editor: markdown
 dateCreated: 2024-11-29T14:48:29.398Z
@@ -19,10 +19,11 @@ dateCreated: 2024-11-29T14:48:29.398Z
     
 ## Screenshots</summary>
     
-  ![zucast_screenshot.png](/zucast_screenshot.png)
-  ![zupass_screenshot.png](/zupass_screenshot.png)
-  ![zupoll_screenshot.png](/zupoll_screenshot.png)
-  ![zuzalu_stamp_screenshot.png](/zuzalu_stamp_screenshot.png)
+![zucast_screenshot.png](/zucast_screenshot.png){width=390px}
+![zupass_screenshot.png](/zupass_screenshot.png){width=390px}
+![zupoll_screenshot.png](/zupoll_screenshot.png){width=390px}
+![zuzalu_stamp_screenshot.png](/zuzalu_stamp_screenshot.png){width=390px}
+  
 </details>
 
 # via [Zupass.city](https://zuzalu.gitbook.io/zuzalu-beta-docs/welcome/zuzalu.city-vision-and-mission/2024-roadmap)
