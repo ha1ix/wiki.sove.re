@@ -2,7 +2,7 @@
 title: Edge City
 description: Society and culture incubator
 published: true
-date: 2024-12-04T07:37:11.053Z
+date: 2024-12-04T09:03:12.150Z
 tags: edge, pop-ups
 editor: markdown
 dateCreated: 2024-12-04T06:41:29.062Z
@@ -10,7 +10,7 @@ dateCreated: 2024-12-04T06:41:29.062Z
 
 # Overview
 
-Edge City is a continuing series of "pop-up villages" founded by Janine Leger and Timour Kosters in 2024. Their locations vary and the number of full time attendees is around the [dunbar number](/Glossary) of 200-300, while in total over a thousand may visit. The description on their site as of 2024 is: "Edge City convenes people working at the frontiers of tech, science, and society in popup villages across the globe. We aspire to be a ‘society and culture incubator’— an IRL lab of experimentation for new ideas, tech, culture, and organizations, all dedicated to accelerating human flourishing." 
+Edge City is a continuing series of "pop-up villages" founded by [Janine Leger](/People/Janine-Leger) and [Timour Kosters](/People/Timour-Kosters) in 2024. Their locations vary and the number of full time attendees is around the [dunbar number](/Glossary) of 200-300, while in total over a thousand may visit. The description on their site as of 2024 is: "Edge City convenes people working at the frontiers of tech, science, and society in popup villages across the globe. We aspire to be a ‘society and culture incubator’— an IRL lab of experimentation for new ideas, tech, culture, and organizations, all dedicated to accelerating human flourishing." 
 They have three "impact areas:"
 * Encourage, educate and inspire attendees "to do the most impactful work of their lives."
 * Incubate projects
