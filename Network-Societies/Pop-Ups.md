@@ -2,14 +2,15 @@
 title: Pop Ups
 description: temporary societies in situ
 published: true
-date: 2024-12-04T08:18:24.080Z
+date: 2024-12-04T08:32:50.123Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-29T13:43:33.619Z
 ---
 
 # Overview
-
+![space_for_popups.png](/space_for_popups.png)
+![space_for_popups_diagram.png](/space_for_popups_diagram.png)
 # History
 
 ## [Zuzalu](/Network-Societies/Pop-Ups/Zuzalu)
@@ -78,6 +79,7 @@ The following is reproduced from a Devcon7 talk.^1^
 
 
 # Ecosystem
+![zuvillage_web-network-map.jpeg](/zuvillage_web-network-map.jpeg)
 
 
 ## [Edge City](/Network-Societies/Pop-Ups/Edge-City)
