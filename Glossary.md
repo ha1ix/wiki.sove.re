@@ -2,7 +2,7 @@
 title: Glossary
 description: network society neologisms
 published: true
-date: 2024-12-05T19:04:35.317Z
+date: 2024-12-05T19:04:37.793Z
 tags: meta, glossary
 editor: markdown
 dateCreated: 2024-12-05T19:04:35.317Z

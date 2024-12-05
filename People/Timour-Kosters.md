@@ -2,7 +2,7 @@
 title: Timour Kosters
 description: Co-founder of Edge City
 published: true
-date: 2024-12-04T09:04:06.012Z
+date: 2024-12-04T09:04:07.406Z
 tags: edge
 editor: markdown
 dateCreated: 2024-12-04T09:04:06.012Z

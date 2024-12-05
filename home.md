@@ -2,7 +2,7 @@
 title:  Soverents Commons
 description: The Sove.re Community
 published: true
-date: 2024-12-04T08:58:51.171Z
+date: 2024-12-04T09:01:19.012Z
 tags: meta
 editor: markdown
 dateCreated: 2024-11-28T14:35:15.788Z

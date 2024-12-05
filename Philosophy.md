@@ -2,7 +2,7 @@
 title: Philosophy
 description: intellectual underpinings of Network-Societies
 published: true
-date: 2024-12-04T08:43:36.118Z
+date: 2024-12-04T08:43:37.507Z
 tags: philosophy
 editor: markdown
 dateCreated: 2024-12-03T14:32:08.150Z

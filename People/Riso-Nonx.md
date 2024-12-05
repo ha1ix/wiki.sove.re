@@ -2,7 +2,7 @@
 title: Riso Nonx
 description: b0y.eu
 published: true
-date: 2024-12-04T17:47:33.089Z
+date: 2024-12-04T17:47:35.482Z
 tags: people
 editor: markdown
 dateCreated: 2024-12-04T09:01:16.788Z
