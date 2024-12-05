@@ -2,7 +2,7 @@
 title: Hubs
 description: Permanent or semi-permanent locality network-societies
 published: true
-date: 2024-12-05T11:01:14.651Z
+date: 2024-12-05T14:30:05.457Z
 tags: hub
 editor: markdown
 dateCreated: 2024-12-05T11:01:14.651Z
@@ -19,3 +19,9 @@ Hubs are physical placesthat will not move, as opposed to a Pop-Up City which ma
 
 #### [Traditional Dream Factory](/Network-Societies/Hubs/TDF)
 Five hectare co-living in Abela, Portugal. Has a token and DAO.
+
+## South America
+
+### Honduras
+
+#### [Vitalia.City](/Network-Societies/Hubs/Vitalia-City)
