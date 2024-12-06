@@ -2,7 +2,7 @@
 title: About
 description: about soverents, sove.re
 published: true
-date: 2024-12-06T12:38:07.403Z
+date: 2024-12-06T12:41:46.794Z
 tags: meta
 editor: markdown
 dateCreated: 2024-12-06T12:38:07.403Z
@@ -16,8 +16,11 @@ Sove.re is community commons infrastructure to fill a communication/information 
 
 # List of tools
 - Forum.sove.re
+    - Instant messaging like Telegram can be ephemeral and disorganized, while many topics of discussion require long-term consideration and discussion. Instant messaging is important, but hopefully forum.sove.re can provide points of reference and "roll-ups" in a consolidated location.
 - Wiki.sove.re
+    - Similarly, forum discussions can further be "rolled up" into an even more organized and long-term-useful database. Eventually it could be useful to have an easy to navigate information resource covering the entire landscape of the network society ecosystem.
 - Docs.sove.re
+    - This is a CryptPad instance which provides a collaboration suite similar to Google Docs, except that it is entirely encrypted in browser so that not even the server can read any content. It is always painful to receive a google hosted document from a project furthering sovereignity. Hopefully by providing this service it will be easier for people to move away from centralized tools.
 
 
 
@@ -28,11 +31,10 @@ Built a public commons, the platform is for everyone interested in furthering hu
 Sove.re is also for individuals who want to contribute to the network society present/future, or even just as a way to keep track of developments in the ecosystem. The entire point of Sove.re is  to make it easier to stay up to date on the community at large, with all of its disparate projects, aims, and participants.
 
 - Forum
-    - Instant messaging like Telegram can be ephemeral and disorganized, while many topics of discussion require long-term consideration and discussion. Instant messaging is important, but hopefully forum.sove.re can provide points of reference and "roll-ups" in a consolidated location.
+
 - Wiki
-    - Similarly, forum discussions can further be "rolled up" into an even more organized and long-term-useful database. Eventually it could be useful to have an easy to navigate information resource covering the entire landscape of the network society ecosystem.
-- Docs
-    - This is a CryptPad instance which provides a collaboration suite similar to Google Docs, except that it is entirely encrypted in browser so that not even the server can read any content. It is always painful to receive a google hosted document from a project furthering sovereignity. Hopefully by providing this service it will be easier for people to move away from centralized tools.
+
+
 
 # Who is behind Sove.re?
 
