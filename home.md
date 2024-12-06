@@ -2,7 +2,7 @@
 title:  Soverents Commons
 description: The Sove.re Community
 published: true
-date: 2024-12-06T15:00:59.614Z
+date: 2024-12-06T15:05:55.727Z
 tags: meta
 editor: markdown
 dateCreated: 2024-11-28T14:35:15.788Z
@@ -24,11 +24,8 @@ The navigation bar to the left shows the major categories of the wiki.
     - Philosophy > Defensive Accelerationism
 
 
-# Contribute
-This wiki is [fully open source](https://github.com/ha1ix/wiki.sove.re/). Every part can be edited by clicking the **Edit on Github** button found on every page. Discussion about the wiki can be found on the [forum](https://forum.sove.re/category/13/wiki) which has open sign-ups.
-
-## We Need You
-This ecosystem is changing too quickly for any single person to track it. Please contribute your expertise, your naive enthusiasm, or just your spell checking skills. An easy place to start is by contributing to the [Glossary](/Glossary)!
+# Please Contribute
+This wiki is [fully open source](https://github.com/ha1ix/wiki.sove.re/). Every part can be edited by clicking the **Edit on Github** button found on every page. Discussion about the wiki can be found on the [forum](https://forum.sove.re/category/13/wiki) which has open sign-ups. **We need you**; this ecosystem is changing too quickly for any single person to track it. Please contribute your expertise, your naive enthusiasm, or just your spell checking skills. An easy place to start is by contributing to the [Glossary](/Glossary)!
 
 ## Funding
 The Soverents Community Commons is currently being considered for funding by the Pop Up Commons DAO on [gardens.fund](https://app.gardens.fund/gardens/42161/0x912ce59144191c1204e64559fe8253a0e49e6548/0x0f143af46eef341b3f0dbf98c3ecb47f57067fef/759)
