@@ -2,7 +2,7 @@
 title: About
 description: about soverents, sove.re
 published: true
-date: 2024-12-06T12:41:46.794Z
+date: 2024-12-06T13:35:40.664Z
 tags: meta
 editor: markdown
 dateCreated: 2024-12-06T12:38:07.403Z
@@ -29,11 +29,6 @@ Sove.re is community commons infrastructure to fill a communication/information 
 Built a public commons, the platform is for everyone interested in furthering human flourishing and soveregnity. This means individuals as well as open source projects that would benefit from the infrastructure provided by Sove.re. Projects/teams can eventually have their own subforums with independent moderation. To this end some of these subforums may even be private and for internal coordination of team members.
 
 Sove.re is also for individuals who want to contribute to the network society present/future, or even just as a way to keep track of developments in the ecosystem. The entire point of Sove.re is  to make it easier to stay up to date on the community at large, with all of its disparate projects, aims, and participants.
-
-- Forum
-
-- Wiki
-
 
 
 # Who is behind Sove.re?
