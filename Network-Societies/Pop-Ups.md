@@ -2,7 +2,7 @@
 title: Pop Ups
 description: temporary societies in situ
 published: true
-date: 2024-12-04T08:32:51.536Z
+date: 2024-12-06T14:52:57.710Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-29T13:43:33.619Z
@@ -81,10 +81,12 @@ The following is reproduced from a Devcon7 talk.^1^
 # Ecosystem
 ![zuvillage_web-network-map.jpeg](/zuvillage_web-network-map.jpeg)
 
+## ["ZuVillages"](/Network-Societies/Pop-Ups/Zuvillage)
+ZuVillage style network-societies promote open source technology and seek avenues of "human flourishing" as opposed to profit or centralized power. Core characteristics are diversity, curiosity, kindness, health, decentralization.
 
-## [Edge City](/Network-Societies/Pop-Ups/Edge-City)
+### [Edge City](/Network-Societies/Pop-Ups/Edge-City)
 A series of successful pop-ups all over the world, co-founded by one of the organizers of the original Zuzalu.
-## The Mu
+### The Mu
 
 # Meetups
 
