@@ -2,7 +2,7 @@
 title:  Soverents Commons
 description: The Sove.re Community
 published: true
-date: 2024-12-06T13:54:05.934Z
+date: 2024-12-06T15:00:59.614Z
 tags: meta
 editor: markdown
 dateCreated: 2024-11-28T14:35:15.788Z
@@ -16,10 +16,12 @@ The navigation bar to the left shows the major categories of the wiki.
 ## Examples 
 - [Zuzalu](/Network-Societies/Pop-Ups/Zuzalu)
     - Network Societies > Pop-Ups > Zuzalu
-- [Programmable Cryptography](/Technology/Software/Programmable-Cryptography))
+- [Programmable Cryptography](/Technology/Software/Programmable-Cryptography)
     - Technology > Software > Programmable Cryptography
 - [Edge City](/Network-Societies/Pop-Ups/Edge-City)
     - Network Societies > Pop-Ups > Edge City
+- [d/acc](/Philosophy/DACC)
+    - Philosophy > Defensive Accelerationism
 
 
 # Contribute
