@@ -1,8 +1,8 @@
 ---
-title: d/acc
-description: defensive accelerationism
+title: Defensive Accelerationism
+description: d/acc
 published: true
-date: 2024-12-06T14:32:20.040Z
+date: 2024-12-06T14:58:18.830Z
 tags: dacc
 editor: markdown
 dateCreated: 2024-12-06T14:09:08.535Z
