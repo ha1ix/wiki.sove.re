@@ -2,7 +2,7 @@
 title: Riso Nonx
 description: b0y.eu
 published: true
-date: 2024-12-04T17:47:35.482Z
+date: 2024-12-09T17:45:56.566Z
 tags: people
 editor: markdown
 dateCreated: 2024-12-04T09:01:16.788Z
@@ -15,4 +15,4 @@ Riso has been contributing to open source software for close to two decades, and
 He also has a complete physical collection of Whole Earth Catalogs, including the CoEvolution Quarterly and Whole Earth Review magazines.
 
 # Writing
-* [What is a ZuVillage?](/People/Riso-Nonx/What-Is-ZuVillage)
+* [What is a ZuVillage?](/people/riso/what-is-zu)
