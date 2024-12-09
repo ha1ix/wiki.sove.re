@@ -2,7 +2,7 @@
 title: Hubs
 description: Permanent or semi-permanent locality network-societies
 published: true
-date: 2024-12-05T14:30:06.847Z
+date: 2024-12-09T17:41:45.914Z
 tags: hub
 editor: markdown
 dateCreated: 2024-12-05T11:01:14.651Z
