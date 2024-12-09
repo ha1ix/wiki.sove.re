@@ -2,7 +2,7 @@
 title: Solarpunk
 description: optimistic view of the future
 published: true
-date: 2024-12-09T14:51:04.510Z
+date: 2024-12-09T15:05:54.662Z
 tags: philosophy, solarpunk
 editor: markdown
 dateCreated: 2024-12-09T14:51:04.510Z
@@ -26,6 +26,9 @@ Because solarpunk believes that responsibly implementd technological progress is
 
 ## Aesthetic
 Solarpunk has a strong visual aesthetic, often showing walkable cities, small, diverse communities, and comfortable/human centric implementation of technologies. Often solarpunk cities are shown as very green with few cars. Unlike cyberpunk's dystopian, technologically driven corporate future, solarpunk envisions humanity solving climate change and social issues through sustainable innovation. In essence it is high tech futurism set in lush, naturally integrated environments.
+
+![dear-alice-chobani-solarpunk.png](/dear-alice-chobani-solarpunk.png)
+This image, from a viral yogurt ad, 
 
 # Lunarpunk
 The term "lunarpunk" has been used as a specific subset/addition/clarification to solarpunk. It envisions the same sustainable, human-centric future based on technological development with an emphasis on the need for "defensive technologies" and caution. For this reason it could be considered ["defensive accelerationism"](/philosophy/dacc). Lunarpunk takes the imagined solarpunk world and adds some specific qualifications that are intended to ground the philosophy in a more defensive/offensive mindset.
