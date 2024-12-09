@@ -2,7 +2,7 @@
 title: Dunbar Number
 description: proposed limit to number of close relationships
 published: true
-date: 2024-12-09T13:28:42.283Z
+date: 2024-12-09T13:57:51.192Z
 tags: social
 editor: markdown
 dateCreated: 2024-12-09T13:27:52.556Z
@@ -16,4 +16,8 @@ via [Wikipedia](https://wikipedia.org/wiki/Dunbar%27s_number)
 > 
 > Dunbar explained the principle informally as "the number of people you would not feel embarrassed about joining uninvited for a drink if you happened to bump into them in a bar."Dunbar theorised that "this limit is a direct function of relative neocortex size, and that this, in turn, limits group size ... the limit imposed by neocortical processing capacity is simply on the number of individuals with whom a stable inter-personal relationship can be maintained". On the periphery, the number also includes past colleagues, such as high school friends, with whom a person would want to reacquaint themselves if they met again. Proponents assert that numbers larger than this generally require more restrictive rules, laws, and enforced norms to maintain a stable, cohesive group. It has been proposed to lie between 100 and 250, with a commonly used value of 150.
 
-# In Contexts of Network-Societies
+# Application to Network-Societies
+From the very beginning pop-up cities have been designed with the dunbar number in mind. One of the often discussed limitations of regular cities/states is their sprawl/impersonality, and so maybe the very first "social technology", and arguably the most important, undergoing experimentation in any pop-up city is the "human sized" community and the kinds of social interactions it fosters. Knowing the people in your community is the first step toward learning to interact with them in novel and positive ways.
+
+# See also
+* Loneliness epidemic
