@@ -2,8 +2,8 @@
 title: Traditional Dream Factory
 description: Permanent Portuguese Hub Dao
 published: true
-date: 2024-12-05T14:29:01.580Z
-tags: hub, dao
+date: 2024-12-09T17:42:18.275Z
+tags: hub, dao, portugal
 editor: markdown
 dateCreated: 2024-12-05T14:28:59.319Z
 ---
