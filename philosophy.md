@@ -1,8 +1,8 @@
 ---
-title: Philosophy
+title: philosophy
 description: intellectual underpinings of Network-Societies
 published: true
-date: 2024-12-09T13:59:32.014Z
+date: 2024-12-09T14:00:07.833Z
 tags: philosophy
 editor: markdown
 dateCreated: 2024-12-03T14:32:08.150Z
@@ -13,7 +13,7 @@ Network-society is fundamentally about improving and [defending human agency](/P
 
 # Common Philosophies
 
-## Pluralism
+## [Pluralism](/philosophy/pluralism)
 Based on the thoughts out of [RadicalXChange].
 
 ## [Defensive Accelerationism](/Philosophy/DACC)
