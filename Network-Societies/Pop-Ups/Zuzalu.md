@@ -2,8 +2,8 @@
 title: Zuzalu
 description: 
 published: true
-date: 2024-12-04T08:31:18.085Z
-tags: 
+date: 2024-12-09T17:47:34.672Z
+tags: zuzalu
 editor: markdown
 dateCreated: 2024-11-29T13:47:19.199Z
 ---
