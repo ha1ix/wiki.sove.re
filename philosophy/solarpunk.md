@@ -2,7 +2,7 @@
 title: Solarpunk
 description: optimistic view of the future
 published: true
-date: 2024-12-09T18:21:41.021Z
+date: 2024-12-09T18:22:55.873Z
 tags: philosophy, solarpunk
 editor: markdown
 dateCreated: 2024-12-09T14:51:04.510Z
@@ -27,16 +27,9 @@ Because solarpunk believes that responsibly implementd technological progress is
 ## Aesthetic
 Solarpunk has a strong visual aesthetic, often showing walkable cities, small, diverse communities, and comfortable/human centric implementation of technologies. Often solarpunk cities are shown as very green with few cars. Unlike cyberpunk's dystopian, technologically driven corporate future, solarpunk envisions humanity solving climate change and social issues through sustainable innovation. In essence it is high tech futurism set in lush, naturally integrated environments.
 
-
-<video width="960" height="720" controls>
-
-<source src="https://www.youtube.com/embed/UqJJktxCY9U?si=h0k8xd9vTzpwYTUA" type="video/mp4">
-
-</video>
-
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UqJJktxCY9U?si=h0k8xd9vTzpwYTUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Video called Dear Alice that went viral for its depiction of a solar punk lifestyle. Notice the abundance of technology, community, and integration with the natural environment. *Note: this was originally a yogurt ad, but [this version](https://www.youtube.com/watch?v=UqJJktxCY9U) has been decommodified*.
+A video called Dear Alice that went viral for its depiction of a solar punk lifestyle. Notice the abundance of technology, community, and integration with the natural environment. *Note: this was originally a yogurt ad, but [this version](https://www.youtube.com/watch?v=UqJJktxCY9U) has been decommodified*.
 
 # Lunarpunk
 The term "lunarpunk" has been used as a specific subset/addition/clarification to solarpunk. It envisions the same sustainable, human-centric future based on technological development with an emphasis on the need for "defensive technologies" and caution. For this reason it could be considered ["defensive accelerationism"](/philosophy/dacc). Lunarpunk takes the imagined solarpunk world and adds some specific qualifications that are intended to ground the philosophy in a more defensive/offensive mindset.
