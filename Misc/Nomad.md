@@ -2,7 +2,7 @@
 title: Digital Nomading
 description: Travelling with a laptop and a credit card
 published: true
-date: 2024-12-05T14:39:19.919Z
+date: 2024-12-09T17:41:15.397Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-05T14:39:18.620Z
