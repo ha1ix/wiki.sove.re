@@ -2,7 +2,7 @@
 title: glossary
 description: network society neologisms
 published: true
-date: 2024-12-09T13:20:36.614Z
+date: 2024-12-09T13:24:48.566Z
 tags: meta, glossary
 editor: markdown
 dateCreated: 2024-12-05T19:04:35.317Z
@@ -15,7 +15,7 @@ Lots of words and concepts, changing all the time and some of them don't even ha
 
 - **Charter city** - An autonomous urban area authorized to establish its own governance framework and implement independent policies
 - **Digital Nomad**: someone who travels while working remotely (usually from their laptop).
-- **[Dunbar Number](/glossary/dunbar)** - The hypothesized number of people one person can have meaningful relationships with, between 100-300 people.
+- **[Dunbar Number](/glossary/dunbar)** - The hypothesized number of people one person can have meaningful relationships with, around 150 people.
 - **Ecovillage** - A purpose-built community focused on environmental and social sustainability across cultural, economic, and ecological dimensions
 - **Intentional community** - A voluntary collective of people choosing to cohabitate and share resources based on mutual values.
 - **Network-society** - A broad term for any group within the entire ecosystem (commercial or grassroots) of decentralized, autonomous communities connected digitally and evolving through voluntary governance experiments.
