@@ -2,7 +2,7 @@
 title: Solarpunk
 description: optimistic view of the future
 published: true
-date: 2024-12-09T15:52:01.279Z
+date: 2024-12-09T15:55:38.487Z
 tags: philosophy, solarpunk
 editor: markdown
 dateCreated: 2024-12-09T14:51:04.510Z
@@ -27,9 +27,10 @@ Because solarpunk believes that responsibly implementd technological progress is
 ## Aesthetic
 Solarpunk has a strong visual aesthetic, often showing walkable cities, small, diverse communities, and comfortable/human centric implementation of technologies. Often solarpunk cities are shown as very green with few cars. Unlike cyberpunk's dystopian, technologically driven corporate future, solarpunk envisions humanity solving climate change and social issues through sustainable innovation. In essence it is high tech futurism set in lush, naturally integrated environments.
 
-​ <video width="960" height="720" controls>
 
-<source src="/home/yunohost.multimedia/dearalicedecommodified.mp4" type="video/mp4">
+<video width="960" height="720" controls>
+
+<source src="b0y@sove.re/home/yunohost.multimedia/dearalicedecommodified.mp4" type="video/mp4">
 
 </video>
 
