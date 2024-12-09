@@ -2,7 +2,7 @@
 title: Foundational Software
 description: Important projects in the space upon which others are being built.
 published: true
-date: 2024-12-04T17:49:06.979Z
+date: 2024-12-09T17:31:55.206Z
 tags: technology
 editor: markdown
 dateCreated: 2024-11-29T10:41:22.144Z
@@ -10,9 +10,9 @@ dateCreated: 2024-11-29T10:41:22.144Z
 
 If projects build with these they are, at least for the time being, likely aligned with many network-society values. 
 
-## [Ethereum](/Technology/Software/Ethereum)
+## [Ethereum](/technology/software/ethereum)
 
-## [Zuzalu.city](/Technology/Software/Zuzalu-City)
+## [Zuzalu.city](/technology/software/zuzalu-city)
 * Zuzalu Software
-## [Waku/Whisper](/Technology/Software/Waku)
+## [Waku/Whisper](/technology/software/waku)
 * An evolution of Whisper for decentralized private communication for blockchains.
