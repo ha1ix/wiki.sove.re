@@ -2,14 +2,14 @@
 title: Pop Ups
 description: temporary societies in situ
 published: true
-date: 2024-12-09T13:17:58.207Z
+date: 2024-12-09T13:27:44.340Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-29T13:43:33.619Z
 ---
 
 # Overview
-Pop ups are temporary meetings of dunba-number sized groups of people for the purpose of experimenting with new ways of community building with the express purpose of experimenting with new ways of living and governance/coordination.
+Pop ups are temporary meetings of [dunbar-number](/glossary/dunbar) sized groups of people for the purpose of experimenting with new ways of community building with the express purpose of experimenting with new ways of living and governance/coordination.
 
 The field is nascent and so the meaning and missions of Pop Ups are not limited to any specific definitions. For more information see the [Philosophy](/Philosophy) page.
 
