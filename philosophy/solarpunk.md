@@ -2,7 +2,7 @@
 title: Solarpunk
 description: optimistic view of the future
 published: true
-date: 2024-12-09T15:55:38.487Z
+date: 2024-12-09T16:50:11.199Z
 tags: philosophy, solarpunk
 editor: markdown
 dateCreated: 2024-12-09T14:51:04.510Z
@@ -30,7 +30,7 @@ Solarpunk has a strong visual aesthetic, often showing walkable cities, small, d
 
 <video width="960" height="720" controls>
 
-<source src="b0y@sove.re/home/yunohost.multimedia/dearalicedecommodified.mp4" type="video/mp4">
+<source src="/home/yunohost.multimedia/dearalicedecommodified.mp4" type="video/mp4">
 
 </video>
 
