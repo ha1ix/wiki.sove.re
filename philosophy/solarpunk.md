@@ -2,7 +2,7 @@
 title: Solarpunk
 description: optimistic view of the future
 published: true
-date: 2024-12-09T17:20:16.011Z
+date: 2024-12-09T17:38:53.391Z
 tags: philosophy, solarpunk
 editor: markdown
 dateCreated: 2024-12-09T14:51:04.510Z
@@ -30,9 +30,11 @@ Solarpunk has a strong visual aesthetic, often showing walkable cities, small, d
 
 <video width="960" height="720" controls>
 
-<source src="https://files.sove.re/browser/share/5-P9q4rI" type="video/mp4">
+<source src="https://files.sove.re/browser/api/public/dl/5-P9q4rI?inline=true" type="video/mp4">
 
 </video>
+
+Video called Dear Alice that went viral for its depiction of a solar punk lifestyle. Notice the abundance of technology, community, and integration with the natural environment. *Note: this was originally a yogurt ad, but [this version](https://www.youtube.com/watch?v=UqJJktxCY9U) has been decommodified*.
 
 # Lunarpunk
 The term "lunarpunk" has been used as a specific subset/addition/clarification to solarpunk. It envisions the same sustainable, human-centric future based on technological development with an emphasis on the need for "defensive technologies" and caution. For this reason it could be considered ["defensive accelerationism"](/philosophy/dacc). Lunarpunk takes the imagined solarpunk world and adds some specific qualifications that are intended to ground the philosophy in a more defensive/offensive mindset.
