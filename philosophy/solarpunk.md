@@ -2,7 +2,7 @@
 title: Solarpunk
 description: optimistic view of the future
 published: true
-date: 2024-12-09T17:38:53.391Z
+date: 2024-12-09T18:21:41.021Z
 tags: philosophy, solarpunk
 editor: markdown
 dateCreated: 2024-12-09T14:51:04.510Z
@@ -30,9 +30,11 @@ Solarpunk has a strong visual aesthetic, often showing walkable cities, small, d
 
 <video width="960" height="720" controls>
 
-<source src="https://files.sove.re/browser/api/public/dl/5-P9q4rI?inline=true" type="video/mp4">
+<source src="https://www.youtube.com/embed/UqJJktxCY9U?si=h0k8xd9vTzpwYTUA" type="video/mp4">
 
 </video>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UqJJktxCY9U?si=h0k8xd9vTzpwYTUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Video called Dear Alice that went viral for its depiction of a solar punk lifestyle. Notice the abundance of technology, community, and integration with the natural environment. *Note: this was originally a yogurt ad, but [this version](https://www.youtube.com/watch?v=UqJJktxCY9U) has been decommodified*.
 
