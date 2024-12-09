@@ -2,7 +2,7 @@
 title: Pop Ups
 description: temporary societies in situ
 published: true
-date: 2024-12-09T13:34:31.131Z
+date: 2024-12-09T13:36:18.824Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-29T13:43:33.619Z
