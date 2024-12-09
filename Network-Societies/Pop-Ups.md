@@ -2,16 +2,20 @@
 title: Pop Ups
 description: temporary societies in situ
 published: true
-date: 2024-12-06T14:52:57.710Z
+date: 2024-12-09T13:17:58.207Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-29T13:43:33.619Z
 ---
 
 # Overview
-![space_for_popups.png](/space_for_popups.png)
-![space_for_popups_diagram.png](/space_for_popups_diagram.png)
+Pop ups are temporary meetings of dunba-number sized groups of people for the purpose of experimenting with new ways of community building with the express purpose of experimenting with new ways of living and governance/coordination.
+
+The field is nascent and so the meaning and missions of Pop Ups are not limited to any specific definitions. For more information see the [Philosophy](/Philosophy) page.
+
 # History
+![pop_up_cities_map_dec_2024.jpg](/page-assets/pop_up_cities_map_dec_2024.jpg)
+map of pop up cities by @jakobbb in the Pop Up Commons telegram.
 
 ## [Zuzalu](/Network-Societies/Pop-Ups/Zuzalu)
 The first contemporary pop up city experiment in Montenegro, March 25-May 25, 2023.
