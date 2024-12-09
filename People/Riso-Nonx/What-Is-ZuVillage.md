@@ -2,7 +2,7 @@
 title: What is a Zuvillage?
 description: a reflection post Edge City Lanna
 published: true
-date: 2024-12-09T15:09:39.838Z
+date: 2024-12-09T17:46:31.050Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-04T11:46:47.841Z
