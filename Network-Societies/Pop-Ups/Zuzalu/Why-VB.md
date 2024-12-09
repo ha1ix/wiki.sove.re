@@ -2,8 +2,8 @@
 title: "Why I Built Zuzalu"
 description: article by Vitalik Buterin
 published: true
-date: 2024-11-29T14:29:15.583Z
-tags: zuzalu
+date: 2024-12-09T17:49:29.087Z
+tags: zuzalu, vitalik
 editor: markdown
 dateCreated: 2024-11-29T14:12:29.207Z
 ---
