@@ -2,7 +2,7 @@
 title: What is a Zuvillage?
 description: a reflection post Edge City Lanna
 published: true
-date: 2024-12-04T11:46:49.427Z
+date: 2024-12-09T15:09:39.838Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-04T11:46:47.841Z
@@ -51,3 +51,69 @@ My experience/learnings
 	-But I learned something I already knew, that time is valuable, that you have to be able to say no to things, that you have to know yourself, otherwise there are too many things to do and you won't ever finish a project of your own or go deeg into anything. 
 	-Awesome way to survey a group of simliarly curious, high agency peoplee and see what you are missing, to see if your project fits, get feedback
 	-In my case I am currently writing a science fiction book during a sabattical, which felt a bit vain, and I not only expected to feel like I had less to contribute than others at the pop up village, I actually felt at times that I should be working on something more palpable and practical. HOWEVER, I also eflt hugely inspired in my work in a way I did not expect, because the largest take away from this event for me was the idea that pop up villages, and edge city in particular, are cultural incubators, and that the cultural/communal/social compenent is the secret sauce, and that a large component of this is acitevly and creatively designing narratives and portents (memes if you will) that help guide and  ground all of the wildly different ideas and enthusiasms into a cohesive path, but also to make a space for untested/unexamined ideas, or to paitn a picture that as much contextualizes the goings on as it shows the blank spaces in the map of the future we are all designing. 
+  
+  1. Introduction: The Birth of Pop-up Villages
+   - Zuzalu 2023 as the genesis
+   - Brief overview of what happened in Montenegro
+   - The recursive nature of defining pop-up villages
+   - Hint at the deeper meaning beyond surface descriptions
+
+2. Setting the Scene: Edge City Lanna
+   - Physical context in Chiang Mai
+   - Basic structure and daily life
+   - Physical description and logistics
+   - Basic structure (200-300 people, 2-month duration)
+   - Common misconceptions (not just crypto bros/longevity seekers)
+   - Sample schedule showcase
+
+3. Surface-level Definitions
+   - Common descriptions and misconceptions
+   - Various interpretations of what constitutes a pop-up village
+   - The apparent Web3/crypto connection
+
+4. Peeling Back the Layers
+   - Traditional definition (temporary intentional community)
+   - Technical definition (playground for innovation)
+   - Meta definition (self-referential community creation)
+   - Beyond professional backgrounds
+   - Shared philosophical underpinnings
+   - The sovereignty connection
+
+5. The Core Revelation: The People
+   - High agency and curiosity as common threads
+   - Intellectual capacity and orientation
+   - Authentic pursuit of self-improvement
+   - Respect and sincerity as foundational values
+   - Key characteristics:
+   - High agency and curiosity
+   - Self-discipline and willpower
+   - Intellectual capacity with practical application
+   - Respect for self and others
+   - Sincere pursuit of meaningful goals
+
+   - Cross-pollination of ideas
+   - Natural emergence of self-governance
+   - Organic development of culture
+   - Balance of individual sovereignty and community
+
+6. Why It Works
+   - Self-selection of participants
+   - Balance of individual sovereignty and community
+   - Cross-pollination of ideas
+   - Organic social technology development
+
+7. Implications: The Future of Pop-up Villages
+   - Cultural incubation potential
+   - Model for future communities
+   - Cultural incubation potential
+   - Bridge between online and physical worlds
+   - Scaling considerations
+   - The ongoing evolution
+
+
+7. Conclusion: The Secret Sauce
+- Return to thesis about quality of people
+- Future potential of the movement
+- Call to action/reflection
+
+  
