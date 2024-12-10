@@ -2,7 +2,7 @@
 title: Ecovillages
 description: 
 published: true
-date: 2024-12-10T18:16:00.815Z
+date: 2024-12-10T18:32:15.037Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-10T18:16:00.815Z
@@ -44,6 +44,14 @@ Ecovillages predate the Zuzalu movement and have a long history. They focus more
 - [Vidalia](https://www.vidalia.coop/home/)
 - [Zukunftsorte](https://zukunftsorte.land/) (Germany)
 - [TERA](https://www.tera.coop/) (France)
+- **O.U.R EcoVillage** | [Website](https://ourecovillage.org/) | Vancouver Island, BC, Canada | Coliving,Education,Regeneration 🌱 | English | Regenerative
+- **Tamera** | | Portugal | | Portuguese | Regenerative
+- **Proto Village** | [Website](https://protovillage.org/) | Andhra Pradesh, India | Coliving,Regeneration 🌱 | English,Hindi | Communal
+- **Pachamama** | [Website](https://www.pachamama.com/) | Costa Rica | Coliving,Education,Personal Growth,Regeneration 🌱 | English | Regenerative
+- **Rancho Mastatal** | [Website](https://ranchomastatal.com/) | Costa Rica | Coliving,Education,Regeneration 🌱 | English | Regenerative
+- **Ithaca Eco Village** | [Website](https://ecovillageithaca.org/) | Ithaca, NY, USA | Coliving,Education,Regeneration 🌱 | English | Communal
+- **Unity Coliving** | [Website](https://numundo.org/center/costa-rica/unity-urban-conscious-coliving) | Costa Rica | Coliving,Coworking,Regeneration 🌱 | English | Regenerative
+- **La La Garddens** | [Website](https://www.lalagardens.com/) | Colorado | Coop,Regeneration 🌱 | English | Regenerative
 
 ## Future City Projects
 - [Telosa](https://cityoftelosa.com/)
