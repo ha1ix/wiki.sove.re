@@ -2,7 +2,7 @@
 title: Defensive Accelerationism
 description: d/acc
 published: true
-date: 2024-12-10T10:25:58.067Z
+date: 2024-12-10T11:52:43.431Z
 tags: dacc
 editor: markdown
 dateCreated: 2024-12-06T14:09:08.535Z
@@ -16,7 +16,7 @@ In response to an essay by venture capitalist Marc Andreessen titled ["The Techn
 The "acc" in **d**efensive **acc**elerationism is a form of "techno optimism" in that it believes that technology can improve human civilization and we should pursue this outcome as quickly as possible (as opposed to decelerationists, such as AI "doomers", who think technology is more likely to damage humanity than improve it in the long run, or luddites, who would prefer we undo some of our technologies and return to relatively more primitive states).
 
 ## Defensive
-The "d" stands for defensive and has dual meaning. One meaning is we should actively build technologies that protect human agency, the other meaning we should carefully consider which technologies we choose to build becaues certain branches of technological development are likely to be dangerous. d/acc then explains that we should pursue the development of technology to improve human civilization *as quickly as is safely possible* while simultaneously developing technologies that *improve the odds of our fluourishing*.
+The "d" stands for defensive and has dual meaning. One meaning is we should actively build technologies that protect human agency and are resistant to corruption, the other meaning applies to how we should carefully consider which technologies we choose to build because certain branches of technological development are likely to be dangerous. d/acc then explains that we should pursue the development of technology to improve human civilization *as quickly as is safely possible* while simultaneously developing technologies that *improve the odds of our fluourishing*.
 
 # Notes
 The entire essay was published in a small printed booklet for Devcon7 attendees.
