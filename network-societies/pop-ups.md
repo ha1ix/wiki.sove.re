@@ -2,7 +2,7 @@
 title: Pop Ups
 description: temporary societies in situ
 published: true
-date: 2024-12-10T12:12:52.957Z
+date: 2024-12-10T12:36:36.274Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-29T13:43:33.619Z
@@ -17,11 +17,6 @@ The field is nascent and so the meaning and missions of Pop Ups are not limited 
 Smaller social groups with more meaningful connections/dependency.
 
 # History
-
-
-## [Zuzalu](/Network-Societies/Pop-Ups/Zuzalu)
-The first contemporary pop up city experiment in Montenegro, March 25-May 25, 2023.
-
 <details><summary>
 
 ## Lineage
@@ -84,10 +79,15 @@ The following is reproduced from a Devcon7 talk.^1^
 
 
 
+## [Zuzalu](/network-societies/pop-ups/zuzalu)
+The first contemporary pop up city experiment in Montenegro, March 25-May 25, 2023.
+### "ZuVillages"
+A specific style of pop-up villages in the bluprint of Zuzalu to promote open source technology and seek avenues of "human flourishing" as opposed to profit or centralized power. Core characteristics are diversity, curiosity, kindness, health, decentralization.
+
+
+
+
 # Ecosystem
-![zuvillage_web-network-map.jpeg](/zuvillage_web-network-map.jpeg)
-![pop_up_cities_map_dec_2024.jpg](/page-assets/pop_up_cities_map_dec_2024.jpg)
-map of pop up cities by @jakobbb in the Pop Up Commons telegram.
 
 ### Current Status
 - Started March-May 2023 in Montenegro with [Zuzalu](/network-societies/pop-ups/zuzalu)
@@ -100,11 +100,12 @@ map of pop up cities by @jakobbb in the Pop Up Commons telegram.
   - Zuconnect
   - [Edge City](/network-societies/pop-ups/edge-city)
 
-## ["ZuVillages"](/Network-Societies/Pop-Ups/Zuvillage)
-A specific style of pop-up villages to promote open source technology and seek avenues of "human flourishing" as opposed to profit or centralized power. Core characteristics are diversity, curiosity, kindness, health, decentralization.
+![zuvillage_web-network-map.jpeg](/zuvillage_web-network-map.jpeg)
+![pop_up_cities_map_dec_2024.jpg](/page-assets/pop_up_cities_map_dec_2024.jpg)
+map of pop up cities by @jakobbb in the Pop Up Commons telegram.
 
 
-# Meetups
+
 
 
 # Sources
