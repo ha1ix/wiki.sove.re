@@ -2,7 +2,7 @@
 title: Pop Ups
 description: temporary societies in situ
 published: true
-date: 2024-12-10T12:42:45.151Z
+date: 2024-12-10T12:45:26.400Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-29T13:43:33.619Z
@@ -11,7 +11,13 @@ dateCreated: 2024-11-29T13:43:33.619Z
 # Overview
 Pop ups are temporary meetings of [dunbar-number](/glossary/dunbar) sized groups of people who colive with a cocreated schedule and cowork on meaningful projects for 1-2 months for the purpose of experimenting with new ways of community building, experimenting with new ways of living and governance/coordination. 
 
-The field is nascent and so the meaning and missions of Pop Ups are not limited to any specific definitions. 
+# Purpose
+To foster a global network of communities to advance humanity by creating playgrounds at the intersection of free and open technology, health, science and social innovation.
+
+- Addresses modern loneliness epidemic
+- Combines traditional community with future innovation
+- Parallel to democratic confederalist movements
+- Focus on decentralized, participatory governance
 
 # History
 <details><summary>
