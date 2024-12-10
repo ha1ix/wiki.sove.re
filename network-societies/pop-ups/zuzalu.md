@@ -2,14 +2,14 @@
 title: zuzalu
 description: 
 published: true
-date: 2024-12-10T12:37:11.494Z
+date: 2024-12-10T12:43:14.127Z
 tags: zuzalu
 editor: markdown
 dateCreated: 2024-11-29T13:47:19.199Z
 ---
 
 # Overview
-Following a 2021 blog post called [Crypto-Cities](/network-societies/crypto-cities-vb) and another about [Network States](/network-societies/network-states-vb) by Vitalik Buterin, Zuzalu was an experiment in co-living established in 2023 in Montenegro, combining elements of tech conferences, hacker houses, and intentional communities. The project hosted 200 residents from diverse regions and fields for a two-month period "to blend a variety of cultures fostering an environment where innovative experiments could make positive impacts on the world." It has inspired a series of other [Pop-Ups](/network-societies/pop-ups), sometimes referred to as [ZuVillages](network-societies/pop-ups/zuvillages) 
+Following a 2021 blog post called [Crypto-Cities](/network-societies/crypto-cities-vb) and another about [Network States](/network-societies/network-states-vb) by Vitalik Buterin, Zuzalu was an experiment in co-living established in 2023 in Montenegro, combining elements of tech conferences, hacker houses, and intentional communities. The project hosted 200 residents from diverse regions and fields for a two-month period "to blend a variety of cultures fostering an environment where innovative experiments could make positive impacts on the world." It has inspired a series of other [Pop-Ups](/network-societies/pop-ups), sometimes referred to as the [ZuVillage](network-societies/pop-ups/zuvillage)  movement.
 
 
 Vitalik wrote about his Zuzalu experience in an article, [Why I Built Zuzalu](/network-societies/pop-ups/zuzalu/why-vb).
@@ -106,28 +106,7 @@ Vitalik wrote about his Zuzalu experience in an article, [Why I Built Zuzalu](/n
 - Accessibility and inclusivity
 - Cultural sensitivity in different locations
 
-# The Zuzalu Movement 
-via [Zuzalu.city](https://zuzalu.gitbook.io/zuzalu-beta-docs/welcome/what-is-zuzalu#id-2023-first-zuzalu)
 
-## 2024: Open Frontier
-
-At the end of 2023, the Zuzalu frontier was opened:
-
-* We take the 2024 “spring of spinoffs” concept as inspiration, and make that be the only thing we do in 2024. We extend it to cover the whole year.
-* We intentionally do NOT DO any of the following:
-    * Have an explicit primary headline long-duration event
-    * Have an explicit concept of “Zuzalu citizens” or “Zuzalu residents”
-    * Attach the name “Zuzalu” to a specific physical event in general
-    
- * We do:
-     * Actively encourage people, both inside the existing community and on the edges of it, to run their own Zu-villages. It’s totally okay and even encouraged for some of these Zu-villages to be simultaneous with and beside each other!
-     * Strongly consider providing funding to some of these groups
-     * Continue to stay together as a group, both virtually and through in-person chats at various Zu-villages, to (i) coordinate on supporting digital public goods that would be common across these Zu-villages and (ii) engage in cross-pollination and intellectual discussion
-     * Continue to be open to multiple paths in 2025, eg: moving toward becoming “United Networks”, coming back into doing some kind of larger event, etc. 2024 will be Zuzalu 2.0, 2025 will be Zuzalu 3.0; the future going that far out is unknown.
-     
-In 2024, Zuzalu has grown into a decentralised movement with many initiatives. 
-
-⚠️ There is no official Zuzalu account, so watch out for anything that claims to be a single source of truth for "Zuzalu" as a whole. 
 
 # Recordings
 - [Yudkowsky vs. Plato: can language models possess knowledge?](https://streameth.org/65a90bfc7932ebe436ba9375/watch?session=65b8f8e0a5b2d09b88ec2132)
