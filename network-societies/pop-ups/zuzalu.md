@@ -2,7 +2,7 @@
 title: zuzalu
 description: 
 published: true
-date: 2024-12-10T10:40:57.207Z
+date: 2024-12-10T10:47:58.917Z
 tags: zuzalu
 editor: markdown
 dateCreated: 2024-11-29T13:47:19.199Z
@@ -14,11 +14,10 @@ Following a 2021 blog post called [Crypto-Cities](/network-societies/crypto-citi
 
 Vitalik wrote about his Zuzalu experience in an article, [Why I Built Zuzalu](/network-societies/pop-ups/zuzalu/why-vb).
 
-## Core Components (The 4 Cs)
+# Content
+## Core Components
 ### Co-creation
-- Open shared calendar where any participant can post events
-- Schedule mix of participant events and conference organizer ecents
-- Activities range from technical workshops to community gatherings an jogging groups
+- Open shared calendar where any participant can post events, from technical workshops to community gatherings and jogging groups
 
 ### Coliving
 - ~150 long-term residents (matching Dunbar's number)
@@ -37,10 +36,16 @@ Vitalik wrote about his Zuzalu experience in an article, [Why I Built Zuzalu](/n
 - Track leads influence attendee/speaker selection
 
 ## Topics
-- Weekly themes (e.g., longevity/biotech, AI, ZK cryptography)
+- Weekly themes 
+    - Synthetic biology, longevity, public goods, zero knowledge, new cities/network-states, AI
 - Weekend conferences aligned with weekly themes
 - Rotating guests, speakers, and topics
 
+## Values
+- Authentic Kindness
+- Mutual Respect
+- Personal Growth
+- Freedom
 
 ## Notable Innovations
 - [Zupass](https://wiki.sove.re/Technology/Software/Zuzalu-City#technologies): Identity system using zero-knowledge proofs
@@ -49,8 +54,7 @@ Vitalik wrote about his Zuzalu experience in an article, [Why I Built Zuzalu](/n
 
 ## Demographics
 - Internationally diverse (no country >33% of attendees)
-- Primary demographics: young professionals, digital nomads
-- Major participant sources: USA and China
+- Primary demographics: young professionals, digital nomads, focused on innovative tech fields 
 
 
 
