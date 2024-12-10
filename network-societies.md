@@ -2,7 +2,7 @@
 title: Network Societies
 description: 
 published: true
-date: 2024-12-10T16:59:24.692Z
+date: 2024-12-10T17:41:04.732Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-29T13:41:41.766Z
@@ -76,7 +76,7 @@ These are cities founded from a tech-startup, venture capital frame of reference
 
 
 ## Large
-### [[Archipelagos]](/network-societies/archipelago)/Confederacies/Network States/Nations
+### Archipelagos/Confederacies/Network States/Nations
    - Networks of aligned communities
    - Shared manifestos/social contracts
    - Decentralized governance
@@ -85,7 +85,9 @@ These are cities founded from a tech-startup, venture capital frame of reference
    - May innovate as charter cities
    - May seek
    
-[Balajian Network States](https://docs.sove.re/sheet/#/3/sheet/edit/ce2a6be7892e3bf3900f5c1677c7e2fe/) are an example.
+### Examples
+* [Chiang Mai Archipelago 2024 ](/network-societies/archipelago2024)
+* [Balajian Network States](https://docs.sove.re/sheet/#/3/sheet/edit/ce2a6be7892e3bf3900f5c1677c7e2fe/) are an example.
 
 # Discussion
 These classifications are mostly hypothetical and evolving. Please contribute your insights and discuss at [this forum topic](https://forum.sove.re/topic/34/taxonomy-of-network-societies)
