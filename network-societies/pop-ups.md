@@ -2,7 +2,7 @@
 title: Pop Ups
 description: temporary societies in situ
 published: true
-date: 2024-12-10T19:08:14.921Z
+date: 2024-12-10T19:10:55.513Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-29T13:43:33.619Z
@@ -94,7 +94,7 @@ The first contemporary pop up city experiment in Montenegro, March 25-May 25, 20
 - Expanded to ~20 groups worldwide within a year
 - Present on every continent
 
-### Notable Events
+### Notable Events ^2^
 #### ShanHaiWoo
 - **Dates**: Aug 5 - Aug 31 2023
 - **Location**: Jilin, China
@@ -147,3 +147,4 @@ map of pop up cities by @jakobbb in the Pop Up Commons telegram.
 
 # Sources
 1. [Popup City Devcon7 Talk](https://docs.google.com/presentation/d/1Fs8S9UaGQhM7TrEzEwYwZ6MoTG_HFF33ImoHgGb3Il0/edit#slide=id.g317a93de408_0_14)
+2. https://www.nsforum.net/posts/a-recap-of-zuzalu-inspired-pop-up-cities
