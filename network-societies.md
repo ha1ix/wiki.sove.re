@@ -2,13 +2,21 @@
 title: Network Societies
 description: 
 published: true
-date: 2024-12-10T12:15:42.991Z
+date: 2024-12-10T12:18:51.285Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-29T13:41:41.766Z
 ---
 
 There is emerging a logical taxonomy of network-societies organized by scale; pop-up villages on one end are ~150 people while nations are obviously much larger.
+# Purpose
+To foster a global network of communities to advance humanity by creating playgrounds at the intersection of free and open technology, health, science and social innovation.
+
+- Addresses modern loneliness epidemic
+- Combines traditional community with future innovation
+- Parallel to democratic confederalist movements
+- Focus on decentralized, participatory governance
+
 # Small
 ## [Pop Ups Villages](/network-societies/pop-ps)
 Temporary villages/towns/cities for incubating novel social technologies.
