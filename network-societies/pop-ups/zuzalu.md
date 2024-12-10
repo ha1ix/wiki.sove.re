@@ -2,7 +2,7 @@
 title: zuzalu
 description: 
 published: true
-date: 2024-12-10T10:47:58.917Z
+date: 2024-12-10T12:30:55.113Z
 tags: zuzalu
 editor: markdown
 dateCreated: 2024-11-29T13:47:19.199Z
@@ -17,23 +17,59 @@ Vitalik wrote about his Zuzalu experience in an article, [Why I Built Zuzalu](/n
 # Content
 ## Core Components
 ### Co-creation
-- Open shared calendar where any participant can post events, from technical workshops to community gatherings and jogging groups
+- Open shared calendar where any participant can post events such as:
+  - Technical workshops
+  - Research presentations
+  - Physical activities (hikes, cold plunges)
+  - Cultural events (tea ceremonies, dance parties)
+  - Skill-sharing sessions (martial arts, parkour)
+- Mix of structured and spontaneous activities
+- Strong emphasis on wellness and personal growth
+- Cross-pollination of ideas and skills
+- Formation of lasting friendships and professional networks
+- Pet projects (like caring for "Zuzu" the injured puppy)
 
 ### Coliving
 - ~150 long-term residents (matching Dunbar's number)
-- Group houses of 2-10 people
+- Organic formation of "group houses" (2-10 people)
+- Shared coworking spaces, meals and social activities
+- Movie nights and informal gatherings
+- Community facilities
 - Focus on holistic well-being (physical, mental, career, community)
+- Lasting relationships that extend beyond the event
+- Some unique living spaces (including boats as group houses)
+- Exposure to diverse perspectives
+- Skill-sharing and learning opportunities
+- Network building
+- Lifestyle experimentation
+- Project development opportunities
+- Access to feedback and collaboration
+- Real-world testing ground for ideas
+- Connection to innovation communities
+
+
 
 ### Coworking
 - Central quiet co-working space
-- Additional work areas in restaurants and apartments
-- Hosts hackathons aligned with weekly themes
+- Additional work areas in cafes and shared spaces
+- Regular hackathons aligned with weekly themes
+- Informal collaboration opportunities
+- Project incubation environment
 
 ### Curation
+- Referral based invitation system
 - 8 core organizers, each inviting ~15 residents
 - Each resident can invite 2 guests
 - Additional residents chosen through application process
 - Track leads influence attendee/speaker selection
+- Focus on maintaining community standards
+- Balanced approach to conflict resolution
+#### Typical Day
+
+   - Morning: Wellness activities
+   - Daytime: Work and workshops
+   - Evening: Social events and community gatherings
+   - Flexible schedule allowing for personal choice
 
 ## Topics
 - Weekly themes 
@@ -47,6 +83,12 @@ Vitalik wrote about his Zuzalu experience in an article, [Why I Built Zuzalu](/n
 - Personal Growth
 - Freedom
 
+## Community Governance
+- Informal leadership structures
+- Community-driven decision making
+- Focus on experimentation with social structures
+- Emphasis on personal autonomy
+
 ## Notable Innovations
 - [Zupass](https://wiki.sove.re/Technology/Software/Zuzalu-City#technologies): Identity system using zero-knowledge proofs
 - **Community Structure**: Blend of planned and bottom-up organization
@@ -57,7 +99,12 @@ Vitalik wrote about his Zuzalu experience in an article, [Why I Built Zuzalu](/n
 - Primary demographics: young professionals, digital nomads, focused on innovative tech fields 
 
 
-
+## Challenges and Considerations
+- Balancing local integration with temporary community
+- Managing group dynamics
+- Sustainability of the model
+- Accessibility and inclusivity
+- Cultural sensitivity in different locations
 
 # The Zuzalu Movement 
 via [Zuzalu.city](https://zuzalu.gitbook.io/zuzalu-beta-docs/welcome/what-is-zuzalu#id-2023-first-zuzalu)
