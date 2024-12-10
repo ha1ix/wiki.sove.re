@@ -2,7 +2,7 @@
 title: Defensive Accelerationism
 description: d/acc
 published: true
-date: 2024-12-10T09:29:33.799Z
+date: 2024-12-10T10:25:58.067Z
 tags: dacc
 editor: markdown
 dateCreated: 2024-12-06T14:09:08.535Z
@@ -20,6 +20,7 @@ The "d" stands for defensive and has dual meaning. One meaning is we should acti
 
 # Notes
 The entire essay was published in a small printed booklet for Devcon7 attendees.
+![dacc_book.jpeg](/dacc_book.jpeg){width=200 height=400}
 
 # See also
 - [Lunarpunk](/philosophy/solarpunk#lunarpunk)
