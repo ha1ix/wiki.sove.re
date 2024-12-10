@@ -2,7 +2,7 @@
 title: Chiang Mai Archipelago 2024
 description: loosely connected or physically adjacent pop-ups
 published: true
-date: 2024-12-10T17:38:55.663Z
+date: 2024-12-10T17:42:05.747Z
 tags: zuzalu, thailand
 editor: markdown
 dateCreated: 2024-12-10T17:38:55.662Z
@@ -33,7 +33,7 @@ The stated mission was "to foster a global network of communities to advance hum
 Some of the major pop-up communities included:
 
 - MegaZu - Focused on shipping code
-- Edge City Lanna - AI, crypto, and longevity tech
+- [Edge City](/network-societies/pop-ups/edge-city) Lanna - AI, crypto, and longevity tech
 - MuChiangMai - ZK crypto and cross-community coordination
 - ShanghaiWoo - AI and blockchain art
 - Lovepunks - Cultural innovation and creator economy
