@@ -2,7 +2,7 @@
 title: ZuVillage Movement
 description: pop-ups in the style of Zuzalu
 published: true
-date: 2024-12-10T12:43:29.647Z
+date: 2024-12-10T17:53:01.569Z
 tags: zu
 editor: markdown
 dateCreated: 2024-12-10T12:43:29.647Z
@@ -10,8 +10,8 @@ dateCreated: 2024-12-10T12:43:29.647Z
 
 A ZuVillage is a specific style of pop-up villages in the bluprint of [Zuzalu](/network-societies/pop-ups/zuzalu) to promote open source technology and seek avenues of "human flourishing" as opposed to profit or centralized power. Core characteristics are diversity, curiosity, kindness, health, decentralization. They are incubators for new technologies, from cryptography to social structure experiments.
 
-# The Movement 
-via [Zuzalu.city](https://zuzalu.gitbook.io/zuzalu-beta-docs/welcome/what-is-zuzalu#id-2023-first-zuzalu)
+# The Zuzalu Nonprofit Organization 
+While the role of the nonprofit is not yet concrete, some ideas below come from [Zuzalu.city](https://zuzalu.gitbook.io/zuzalu-beta-docs/welcome/what-is-zuzalu#id-2023-first-zuzalu)
 
 ## 2024: Open Frontier
 
@@ -32,3 +32,8 @@ At the end of 2023, the Zuzalu frontier was opened:
 In 2024, Zuzalu has grown into a decentralised movement with many initiatives. 
 
 ⚠️ There is no official Zuzalu account, so watch out for anything that claims to be a single source of truth for "Zuzalu" as a whole. 
+
+
+# Discussion
+* [Zuzalu.city subforum](https://forum.sove.re/category/28/zuzalu-city)
+* [Zuzalu Charter/Constitution discussion](https://forum.sove.re/topic/35/zuvillage-charter-constitution)
