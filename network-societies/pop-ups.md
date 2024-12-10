@@ -2,7 +2,7 @@
 title: Pop Ups
 description: temporary societies in situ
 published: true
-date: 2024-12-10T12:46:16.886Z
+date: 2024-12-10T19:08:14.921Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-29T13:43:33.619Z
@@ -89,16 +89,53 @@ The first contemporary pop up city experiment in Montenegro, March 25-May 25, 20
 
 # Ecosystem
 
-### Current Status
+## Current Status
 - Started March-May 2023 in Montenegro with [Zuzalu](/network-societies/pop-ups/zuzalu)
 - Expanded to ~20 groups worldwide within a year
 - Present on every continent
-- Notable events:
-  - ShanHaiWoo
-  - MuChiangMai
-  - Vitalia
-  - Zuconnect
-  - [Edge City](/network-societies/pop-ups/edge-city)
+
+### Notable Events
+#### ShanHaiWoo
+- **Dates**: Aug 5 - Aug 31 2023
+- **Location**: Jilin, China
+- **Themes**: Web3, AI, Creator Economy, Coding Camp
+- **Residents**: 121
+- **Notable Software**: Social Layer, Safe, .bit
+- **Key Features**: Chinese mythology theme, NFT-based event participation system
+
+#### MuChiangMai
+- **Dates**: Sep 15 - Oct 31 2023
+- **Location**: Chiang Mai, Thailand
+- **Themes**: Web3, ZK
+- **Key Features**: Developer hostel, mentor hotel system, ZK bootcamp focus
+
+#### Zuconnect
+- **Location**: Istanbul
+- **Theme**: Web3
+- **Notable Project**: Zuzagora
+
+#### Wamotopia
+- **Note**: Pre-dated Zuzalu but second iteration was Zuzalu-inspired
+
+#### Vitalia
+- **Dates**: Jan 6 - Feb 29, 2024
+- **Location**: Prospera, Roatan Island, Honduras
+- **Themes**: Longevity, Startup Societies, AI
+- **Residents**: ~200 (150 max at any time)
+- **Notable Software**: Social Layer, viaPrize
+- **Key Features**: Free breakfast, sunrise meditations, focus on work-life balance
+
+### Other Notable Pop-up Villages
+- Zanzalu
+- ZuBerlin
+- MuAccra
+- MuBuenos
+- Aleph
+- ZuVillage Georgia
+- Zuitserland
+- Zelar City
+- [Edge City](/network-societies/pop-ups/edge-city)
+- [Chiang Mai Archipelago 2024](/network-societies/archipelago2024)
 
 ![zuvillage_web-network-map.jpeg](/zuvillage_web-network-map.jpeg)
 ![pop_up_cities_map_dec_2024.jpg](/page-assets/pop_up_cities_map_dec_2024.jpg)
