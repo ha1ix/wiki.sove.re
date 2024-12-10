@@ -2,7 +2,7 @@
 title: Network Societies
 description: 
 published: true
-date: 2024-12-10T11:52:06.174Z
+date: 2024-12-10T11:52:36.665Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-29T13:41:41.766Z
@@ -22,9 +22,9 @@ These are a type of Hub, cities founded from a tech-startup, venture capital fra
 
 
 # Large
-## Confederacies/Network-States/Nations
+## Confederacies/Network States/Nations
 Balajian Network States are inside of this philosophical framework.
 https://docs.sove.re/sheet/#/3/sheet/edit/ce2a6be7892e3bf3900f5c1677c7e2fe/
 
-# Note
+# Discussion
 These classifications are mostly hypothetical and evolving. Please contribute your insights and discuss at [this forum topic](https://forum.sove.re/topic/34/taxonomy-of-network-societies)
