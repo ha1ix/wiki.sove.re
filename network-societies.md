@@ -2,7 +2,7 @@
 title: Network Societies
 description: 
 published: true
-date: 2024-12-10T18:28:49.723Z
+date: 2024-12-10T18:54:08.309Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-29T13:41:41.766Z
@@ -60,7 +60,7 @@ There is emerging a logical taxonomy of network-societies organized by scale; po
 # Taxonomy
 
 ## Small
-### [Pop Ups Villages](/network-societies/pop-ps)
+### [Pop Ups Villages](/network-societies/pop-ups)
 Temporary villages/towns/cities for incubating novel social technologies.
 
 ### [Hubs](/network-societies/hubs)
