@@ -2,23 +2,22 @@
 title: Pop Ups
 description: temporary societies in situ
 published: true
-date: 2024-12-09T13:36:18.824Z
+date: 2024-12-10T12:12:52.957Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-29T13:43:33.619Z
 ---
 
 # Overview
-Pop ups are temporary meetings of [dunbar-number](/glossary/dunbar) sized groups of people for the purpose of experimenting with new ways of community building with the express purpose of experimenting with new ways of living and governance/coordination.
+Pop ups are temporary meetings of [dunbar-number](/glossary/dunbar) sized groups of people who colive with a cocreated schedule and cowork on meaningful projects for 1-2 months for the purpose of experimenting with new ways of community building, experimenting with new ways of living and governance/coordination. 
 
-The field is nascent and so the meaning and missions of Pop Ups are not limited to any specific definitions. For more information about the philosophy of network-societies at large see the [Philosophy](/Philosophy) page.
+The field is nascent and so the meaning and missions of Pop Ups are not limited to any specific definitions. 
 
 # Philosophy
 Smaller social groups with more meaningful connections/dependency.
 
 # History
-![pop_up_cities_map_dec_2024.jpg](/page-assets/pop_up_cities_map_dec_2024.jpg)
-map of pop up cities by @jakobbb in the Pop Up Commons telegram.
+
 
 ## [Zuzalu](/Network-Societies/Pop-Ups/Zuzalu)
 The first contemporary pop up city experiment in Montenegro, March 25-May 25, 2023.
@@ -87,13 +86,23 @@ The following is reproduced from a Devcon7 talk.^1^
 
 # Ecosystem
 ![zuvillage_web-network-map.jpeg](/zuvillage_web-network-map.jpeg)
+![pop_up_cities_map_dec_2024.jpg](/page-assets/pop_up_cities_map_dec_2024.jpg)
+map of pop up cities by @jakobbb in the Pop Up Commons telegram.
+
+### Current Status
+- Started March-May 2023 in Montenegro with [Zuzalu](/network-societies/pop-ups/zuzalu)
+- Expanded to ~20 groups worldwide within a year
+- Present on every continent
+- Notable events:
+  - ShanHaiWoo
+  - MuChiangMai
+  - Vitalia
+  - Zuconnect
+  - [Edge City](/network-societies/pop-ups/edge-city)
 
 ## ["ZuVillages"](/Network-Societies/Pop-Ups/Zuvillage)
-ZuVillage style network-societies promote open source technology and seek avenues of "human flourishing" as opposed to profit or centralized power. Core characteristics are diversity, curiosity, kindness, health, decentralization.
+A specific style of pop-up villages to promote open source technology and seek avenues of "human flourishing" as opposed to profit or centralized power. Core characteristics are diversity, curiosity, kindness, health, decentralization.
 
-### [Edge City](/Network-Societies/Pop-Ups/Edge-City)
-A series of successful pop-ups all over the world, co-founded by one of the organizers of the original Zuzalu.
-### The Mu
 
 # Meetups
 
