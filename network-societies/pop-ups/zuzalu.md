@@ -2,7 +2,7 @@
 title: zuzalu
 description: 
 published: true
-date: 2024-12-10T17:48:41.836Z
+date: 2024-12-10T18:55:11.608Z
 tags: zuzalu
 editor: markdown
 dateCreated: 2024-11-29T13:47:19.199Z
@@ -21,7 +21,7 @@ Zuzalu has inspired a series of other [Pop-Ups](/network-societies/pop-ups), not
 Zuzalu has incorporated as a non-profit providing funding for related projects and is aiming to loosely define what is a [ZuVillage](network-societies/pop-ups/zuvillage).
 
 
-# Content
+# Content ^1^
 ## Core Components
 ### Co-creation
 - Open shared calendar where any participant can post events such as:
@@ -407,3 +407,6 @@ Zuzalu has incorporated as a non-profit providing funding for related projects a
 
 # See also
 [Zuzalu.city](/Technology/Software/Zuzalu-City) (Zuzalu Software)
+
+# Sources
+1. https://www.nsforum.net/posts/what-is-a-zuzalu-event
