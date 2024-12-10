@@ -2,7 +2,7 @@
 title: zuzalu
 description: 
 published: true
-date: 2024-12-10T12:30:55.113Z
+date: 2024-12-10T12:37:11.494Z
 tags: zuzalu
 editor: markdown
 dateCreated: 2024-11-29T13:47:19.199Z
@@ -90,7 +90,7 @@ Vitalik wrote about his Zuzalu experience in an article, [Why I Built Zuzalu](/n
 - Emphasis on personal autonomy
 
 ## Notable Innovations
-- [Zupass](https://wiki.sove.re/Technology/Software/Zuzalu-City#technologies): Identity system using zero-knowledge proofs
+- [Zupass](technology/software/zuzalu-city#technologies): Identity system using zero-knowledge proofs
 - **Community Structure**: Blend of planned and bottom-up organization
 - **Dining**: Longevity-focused meal program based on Bryan Johnson's Blueprint
 
