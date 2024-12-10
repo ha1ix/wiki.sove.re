@@ -2,7 +2,7 @@
 title: Pop Ups
 description: temporary societies in situ
 published: true
-date: 2024-12-10T12:45:26.400Z
+date: 2024-12-10T12:46:16.886Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-29T13:43:33.619Z
@@ -83,7 +83,7 @@ The following is reproduced from a Devcon7 talk.^1^
 
 
 ## [Zuzalu](/network-societies/pop-ups/zuzalu)
-The first contemporary pop up city experiment in Montenegro, March 25-May 25, 2023. Kicked off the subsequent pop-up village trend sometimes called ["ZuVillages"](
+The first contemporary pop up city experiment in Montenegro, March 25-May 25, 2023. Kicked off the subsequent pop-up village trend sometimes called the ["ZuVillage"](/network-societies/pop-ups/network-societies/pop-ups/zuvillage) movement.
 
 
 
