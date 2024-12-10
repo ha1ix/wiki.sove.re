@@ -2,17 +2,24 @@
 title: zuzalu
 description: 
 published: true
-date: 2024-12-10T12:43:14.127Z
+date: 2024-12-10T17:48:41.836Z
 tags: zuzalu
 editor: markdown
 dateCreated: 2024-11-29T13:47:19.199Z
 ---
 
 # Overview
-Following a 2021 blog post called [Crypto-Cities](/network-societies/crypto-cities-vb) and another about [Network States](/network-societies/network-states-vb) by Vitalik Buterin, Zuzalu was an experiment in co-living established in 2023 in Montenegro, combining elements of tech conferences, hacker houses, and intentional communities. The project hosted 200 residents from diverse regions and fields for a two-month period "to blend a variety of cultures fostering an environment where innovative experiments could make positive impacts on the world." It has inspired a series of other [Pop-Ups](/network-societies/pop-ups), sometimes referred to as the [ZuVillage](network-societies/pop-ups/zuvillage)  movement.
+Following a 2021 blog post called [Crypto-Cities](/network-societies/crypto-cities-vb) and another about [Network States](/network-societies/network-states-vb) by Vitalik Buterin, Zuzalu was an experiment in co-living established in 2023 in Montenegro, combining elements of tech conferences, hacker houses, and intentional communities. The project hosted 200 residents from diverse regions and fields for a two-month period "to blend a variety of cultures fostering an environment where innovative experiments could make positive impacts on the world." 
 
-
+## Legacy
 Vitalik wrote about his Zuzalu experience in an article, [Why I Built Zuzalu](/network-societies/pop-ups/zuzalu/why-vb).
+
+Zuzalu has inspired a series of other [Pop-Ups](/network-societies/pop-ups), notably the [Chiang Mai Archipelago 2024](/network-societies/archipelago2024) which had over a dozen experimental pop-up villages in the same vicinity.
+
+## Future
+
+Zuzalu has incorporated as a non-profit providing funding for related projects and is aiming to loosely define what is a [ZuVillage](network-societies/pop-ups/zuvillage).
+
 
 # Content
 ## Core Components
