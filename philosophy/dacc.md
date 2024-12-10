@@ -2,14 +2,14 @@
 title: Defensive Accelerationism
 description: d/acc
 published: true
-date: 2024-12-10T11:52:43.431Z
+date: 2024-12-10T12:02:05.703Z
 tags: dacc
 editor: markdown
 dateCreated: 2024-12-06T14:09:08.535Z
 ---
 
 # Overview
-In response to an essay by venture capitalist Marc Andreessen titled ["The Techno-Optimist Manifesto"](https://a16z.com/the-techno-optimist-manifesto/) and as a corollary to [effective accelerationism](/Philosophy/eacc) (which specifically promotes the accelerated development of general artificial intelligence and in turn was partly a criticism of the conservatism of [Effective Altruism](/Philosophy/EA)), Vitalik Buterin published an essay titled [my techno optimism](https://vitalik.eth.limo/general/2023/11/27/techno_optimism.html) coining the term d/acc, or defensive accelerationism.
+In response to an essay by venture capitalist Marc Andreessen titled ["The Techno-Optimist Manifesto"](https://a16z.com/the-techno-optimist-manifesto/) and as a corollary to e/acc [effective accelerationism](/philosophy/eacc) (which specifically promotes the accelerated development of general artificial intelligence and in turn was partly a criticism of the conservatism of [Effective Altruism](/philosophy/ea)), Vitalik Buterin published an essay titled [my techno optimism](https://vitalik.eth.limo/general/2023/11/27/techno_optimism.html) coining the term d/acc, or defensive accelerationism.
 
 > We need to build, and accelerate. But there is a very real question that needs to be asked: what is the thing that we are accelerating towards? The 21st century may well be the pivotal century for humanity, the century in which our fate for millennia to come gets decided. Do we fall into one of a number of traps from which we cannot escape, or do we find a way toward a future where we retain our freedom and agency? -- Vitalik Buterin, Nov 27, 2023
 ##  Accelerationism
