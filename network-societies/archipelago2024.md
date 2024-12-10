@@ -2,7 +2,7 @@
 title: Chiang Mai Archipelago 2024
 description: loosely connected or physically adjacent pop-ups
 published: true
-date: 2024-12-10T19:09:31.912Z
+date: 2024-12-10T19:10:01.304Z
 tags: zuzalu, thailand
 editor: markdown
 dateCreated: 2024-12-10T17:38:55.662Z
