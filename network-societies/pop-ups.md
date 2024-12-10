@@ -2,7 +2,7 @@
 title: Pop Ups
 description: temporary societies in situ
 published: true
-date: 2024-12-10T12:36:36.274Z
+date: 2024-12-10T12:42:45.151Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-29T13:43:33.619Z
@@ -12,9 +12,6 @@ dateCreated: 2024-11-29T13:43:33.619Z
 Pop ups are temporary meetings of [dunbar-number](/glossary/dunbar) sized groups of people who colive with a cocreated schedule and cowork on meaningful projects for 1-2 months for the purpose of experimenting with new ways of community building, experimenting with new ways of living and governance/coordination. 
 
 The field is nascent and so the meaning and missions of Pop Ups are not limited to any specific definitions. 
-
-# Philosophy
-Smaller social groups with more meaningful connections/dependency.
 
 # History
 <details><summary>
@@ -80,10 +77,7 @@ The following is reproduced from a Devcon7 talk.^1^
 
 
 ## [Zuzalu](/network-societies/pop-ups/zuzalu)
-The first contemporary pop up city experiment in Montenegro, March 25-May 25, 2023.
-### "ZuVillages"
-A specific style of pop-up villages in the bluprint of Zuzalu to promote open source technology and seek avenues of "human flourishing" as opposed to profit or centralized power. Core characteristics are diversity, curiosity, kindness, health, decentralization.
-
+The first contemporary pop up city experiment in Montenegro, March 25-May 25, 2023. Kicked off the subsequent pop-up village trend sometimes called ["ZuVillages"](
 
 
 
