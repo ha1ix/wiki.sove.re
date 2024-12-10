@@ -2,7 +2,7 @@
 title: Network Societies
 description: 
 published: true
-date: 2024-12-10T12:52:55.944Z
+date: 2024-12-10T16:59:24.692Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-29T13:41:41.766Z
@@ -76,7 +76,7 @@ These are cities founded from a tech-startup, venture capital frame of reference
 
 
 ## Large
-### Confederacies/Network States/Nations
+### [[Archipelagos]](/network-societies/archipelago)/Confederacies/Network States/Nations
    - Networks of aligned communities
    - Shared manifestos/social contracts
    - Decentralized governance
