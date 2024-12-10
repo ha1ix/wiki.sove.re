@@ -2,7 +2,7 @@
 title: hubs
 description: Permanent or semi-permanent locality network-societies
 published: true
-date: 2024-12-10T18:04:23.069Z
+date: 2024-12-10T18:32:28.710Z
 tags: hub
 editor: markdown
 dateCreated: 2024-12-05T11:01:14.651Z
@@ -105,6 +105,12 @@ Five hectare co-living in Abela, Portugal. Has a token and DAO.
 - [Forum Groningen](https://www.designboom.com/architecture/nl-architects-forum-groningen-netherlands/) - Cultural department store
 - [The Commons Bangkok](https://www.thecommonsbkk.com/) - Community-focused retail and gathering
 - [DADFA Community Mall](https://www.archdaily.com/901661/dadfa-community-mall-m-space) - Pilot community project
+- **Mars College** | [Website](https://mars.college/) | Bombay Beach, CA, USA | Coliving,Coworking,High-tech | Chinese,English,German,Portuguese,Spanish | Techsavvy
+- **L'Hermitage** | [Website](https://www.hermitagelelab.com/) | Paris, France | Coliving,Coworking,High-tech,Regeneration 🌱 | English,French | Techsavvy
+- **Aardehuis** | [Website](https://imgur.com/gallery/KbPrjkp) | Olst, Netherlands | Coliving,High-tech,Regeneration 🌱 | Dutch,English | Techsavvy
+- **MOOS** | [Website](https://moos.space/about/) | Berlin, Germany | Coliving,Collective,Coworking,High-tech | English,German | Artistic
+- **Future Thinkers** | [Website](https://futurethinkers.org/) | Canada | Coliving,High-tech,Web3 | English | Techsavvy
+- **Feytopia** | [Website](https://feytopia.com/) | France | Collective,High-tech | English,French | Techsavvy
 
 ### Modern Community Spaces
 - [Jaego's House](https://www.jaegoshouse.co.uk/)
