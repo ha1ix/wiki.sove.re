@@ -2,34 +2,44 @@
 title: zuzalu
 description: 
 published: true
-date: 2024-12-10T10:12:20.805Z
+date: 2024-12-10T10:40:57.207Z
 tags: zuzalu
 editor: markdown
 dateCreated: 2024-11-29T13:47:19.199Z
 ---
 
 # Overview
-Following a 2021 blog post called [Crypto-Cities](/Network-Societies/Crypto-Cities-VB) and another about [Network States](/Network-Societies/Network-States-VB) by Vitalik Buterin, Zuzalu was an experimental pop-up community established in 2023 in Montenegro, combining elements of tech conferences, hacker houses, and intentional communities. The project hosted 200 residents from diverse regions and fields for a two-month period "to blend a variety of cultures fostering an environment where innovative experiments could make positive impacts on the world." It has inspired a series of other [Pop-Ups](/Network-Societies/Pop-Ups), sometimes referred to as [ZuVillages.](/Network-Societies/Pop-ups/ZuVillage)
+Following a 2021 blog post called [Crypto-Cities](/network-societies/crypto-cities-vb) and another about [Network States](/network-societies/network-states-vb) by Vitalik Buterin, Zuzalu was an experiment in co-living established in 2023 in Montenegro, combining elements of tech conferences, hacker houses, and intentional communities. The project hosted 200 residents from diverse regions and fields for a two-month period "to blend a variety of cultures fostering an environment where innovative experiments could make positive impacts on the world." It has inspired a series of other [Pop-Ups](/network-societies/pop-ups), sometimes referred to as [ZuVillages](network-societies/pop-ups/zuvillages) 
 
-Vitalik wrote about his Zuzalu experience in an article, [Why I Built Zuzalu](/Network-Societies/Pop-Ups/Zuzalu/Why-VB).
 
-<details>
-  <summary>
-    
-## Photos</summary>
-    
-  ![vitalik_explaining_zuzalu.png](/vitalik_explaining_zuzalu.png)
-  ![coordination_state_zuzalu_event_pic.png](/coordination_state_zuzalu_event_pic.png)
-  ![zuzalu_dashboard_screenshot.png](/zuzalu_dashboard_screenshot.png)
-  ![zuzalu_schedule.jpeg](/zuzalu_schedule.jpeg)
-  ![zuzalu_townhall_activation.png](/zuzalu_townhall_activation.png)
- </details>
+Vitalik wrote about his Zuzalu experience in an article, [Why I Built Zuzalu](/network-societies/pop-ups/zuzalu/why-vb).
 
-## Key Features
-- **Duration**: Two months (starting March 25, 2023)
-- **Location**: Resort in Montenegro
-- **Population**: ~200 residents
-- **Focus Areas**: Ethereum/crypto, longevity research, biotech
+## Core Components (The 4 Cs)
+### Co-creation
+- Open shared calendar where any participant can post events
+- Schedule mix of participant events and conference organizer ecents
+- Activities range from technical workshops to community gatherings an jogging groups
+
+### Coliving
+- ~150 long-term residents (matching Dunbar's number)
+- Group houses of 2-10 people
+- Focus on holistic well-being (physical, mental, career, community)
+
+### Coworking
+- Central quiet co-working space
+- Additional work areas in restaurants and apartments
+- Hosts hackathons aligned with weekly themes
+
+### Curation
+- 8 core organizers, each inviting ~15 residents
+- Each resident can invite 2 guests
+- Additional residents chosen through application process
+- Track leads influence attendee/speaker selection
+
+## Topics
+- Weekly themes (e.g., longevity/biotech, AI, ZK cryptography)
+- Weekend conferences aligned with weekly themes
+- Rotating guests, speakers, and topics
 
 
 ## Notable Innovations
@@ -77,7 +87,7 @@ In 2024, Zuzalu has grown into a decentralised movement with many initiatives.
 - [Nova / IVC REPL](https://streameth.org/65a90bfc7932ebe436ba9375/watch?session=65b8f8dfa5b2d09b88ec20f9)
 - [How to build with Semaphore](https://streameth.org/65a90bfc7932ebe436ba9375/watch?session=65b8f8dfa5b2d09b88ec20e2)
 - [Manifesting “Humanity 2.0” 🔮 (in the most inclusive and effective way possible)](https://streameth.org/65a90bfc7932ebe436ba9375/watch?session=65b8f8dfa5b2d09b88ec20dc)
-- [Unknown](https://streameth.org/65a90bfc7932ebe436ba9375/watch?session=65b8f8dfa5b2d09b88ec20d8)
+- [Veil of ignorance to pick principles to align AI](https://streameth.org/65a90bfc7932ebe436ba9375/watch?session=65b8f8dfa5b2d09b88ec20d8)
 - [Scaling Ethereum with Zero Knowledge Proofs](https://streameth.org/65a90bfc7932ebe436ba9375/watch?session=65b8f8dea5b2d09b88ec20bf)
 - [Longevity Zero to One: Bottlenecks to Progress & What You Can Do](https://streameth.org/65a90bfc7932ebe436ba9375/watch?session=65b8f8dea5b2d09b88ec20bb)
 - [Seaside Chat: Alignment as a Layer in the Stack](https://streameth.org/65a90bfc7932ebe436ba9375/watch?session=65b8f8dea5b2d09b88ec20b6)
@@ -342,6 +352,21 @@ In 2024, Zuzalu has grown into a decentralised movement with many initiatives.
 - [Reputation and Trust in Open Networks](https://streameth.org/65a90bfc7932ebe436ba9375/watch?session=65b8f8cfa5b2d09b88ec11f0)
 - [Patterns and Mechanic Designs for Digital Public Spaces](https://streameth.org/65a90bfc7932ebe436ba9375/watch?session=65b8f8cfa5b2d09b88ec11a1)
 - [Opening Remarks](https://streameth.org/65a90bfc7932ebe436ba9375/watch?session=65b8f8cfa5b2d09b88ec115a)
+
+# Photos
+<details>
+  <summary>
+    
+
+    
+## Expand</summary>
+    
+  ![vitalik_explaining_zuzalu.png](/vitalik_explaining_zuzalu.png)
+  ![coordination_state_zuzalu_event_pic.png](/coordination_state_zuzalu_event_pic.png)
+  ![zuzalu_dashboard_screenshot.png](/zuzalu_dashboard_screenshot.png)
+  ![zuzalu_schedule.jpeg](/zuzalu_schedule.jpeg)
+  ![zuzalu_townhall_activation.png](/zuzalu_townhall_activation.png)
+ </details>
 
 # See also
 [Zuzalu.city](/Technology/Software/Zuzalu-City) (Zuzalu Software)
