@@ -2,7 +2,7 @@
 title: Network Societies
 description: 
 published: true
-date: 2024-12-10T18:13:43.767Z
+date: 2024-12-10T18:28:49.723Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-29T13:41:41.766Z
@@ -74,7 +74,7 @@ More permanent settlements.
 ### Startup Cities
 These are cities founded from a tech-startup, venture capital frame of reference. While they aim to increase human agency in some ways, it is in the context of allowing novel economic experiments and pathways for profit. Often they are set in "special economic zones" allowing more experimental frameworks for pursuing things like medicine that may not fit in the legal framework of existing cities/states.
 
-### [Ecovillages](/network-societies/ecovillage)
+### [Intentional Communities](/network-societies/ic)
 These are their own category outside of the specific scope of this wiki, but share many of the communal, decentralized values of other network-societies.
 
 
