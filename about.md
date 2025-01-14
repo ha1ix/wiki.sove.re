@@ -2,7 +2,7 @@
 title: About
 description: about soverents, sove.re
 published: true
-date: 2025-01-14T16:52:11.681Z
+date: 2025-01-14T16:52:23.261Z
 tags: meta
 editor: markdown
 dateCreated: 2024-12-06T12:38:07.403Z
