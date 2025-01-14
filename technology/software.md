@@ -1,8 +1,8 @@
 ---
-title: Software
+title: software
 description: Software for human flourishing
 published: true
-date: 2024-12-09T14:43:50.165Z
+date: 2024-12-09T14:43:51.700Z
 tags: technology, software
 editor: markdown
 dateCreated: 2024-11-28T14:28:56.018Z

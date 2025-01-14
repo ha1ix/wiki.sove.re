@@ -2,7 +2,7 @@
 title: Solarpunk
 description: optimistic view of the future
 published: true
-date: 2024-12-09T18:22:55.873Z
+date: 2024-12-09T18:22:57.175Z
 tags: philosophy, solarpunk
 editor: markdown
 dateCreated: 2024-12-09T14:51:04.510Z

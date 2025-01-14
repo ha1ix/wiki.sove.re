@@ -2,7 +2,7 @@
 title: Pluralism
 description: social philosophy
 published: true
-date: 2024-12-09T17:25:06.795Z
+date: 2024-12-09T17:29:55.202Z
 tags: plural
 editor: markdown
 dateCreated: 2024-12-09T17:25:06.792Z

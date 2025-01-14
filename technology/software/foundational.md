@@ -2,7 +2,7 @@
 title: Foundational Software
 description: Important projects in the space upon which others are being built.
 published: true
-date: 2024-12-09T17:31:55.206Z
+date: 2024-12-09T17:48:48.434Z
 tags: technology
 editor: markdown
 dateCreated: 2024-11-29T10:41:22.144Z

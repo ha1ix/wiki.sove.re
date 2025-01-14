@@ -2,7 +2,7 @@
 title: Ecovillages
 description: 
 published: true
-date: 2024-12-10T18:32:15.037Z
+date: 2024-12-10T18:32:16.499Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-10T18:16:00.815Z

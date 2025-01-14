@@ -2,7 +2,7 @@
 title: Edge City
 description: Society and culture incubator
 published: true
-date: 2025-01-14T16:54:10.596Z
+date: 2025-01-14T16:54:11.925Z
 tags: edge, pop-ups
 editor: markdown
 dateCreated: 2024-12-04T06:41:29.062Z

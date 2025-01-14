@@ -2,7 +2,7 @@
 title: Effective Accelerationism
 description: e/acc
 published: true
-date: 2024-12-10T12:00:22.558Z
+date: 2024-12-10T12:00:23.818Z
 tags: philosophy
 editor: markdown
 dateCreated: 2024-12-10T12:00:22.558Z

@@ -2,7 +2,7 @@
 title: Social Technology
 description: Not hardware/software but wetware
 published: true
-date: 2024-12-09T14:43:27.485Z
+date: 2024-12-09T14:43:28.923Z
 tags: technology, social
 editor: markdown
 dateCreated: 2024-11-28T12:37:42.198Z

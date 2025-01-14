@@ -2,7 +2,7 @@
 title: changelog
 description: List of changes to the blog
 published: true
-date: 2024-12-10T19:12:58.166Z
+date: 2024-12-10T19:12:59.513Z
 tags: meta
 editor: markdown
 dateCreated: 2024-11-28T10:54:58.039Z

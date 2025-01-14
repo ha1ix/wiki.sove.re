@@ -1,8 +1,8 @@
 ---
-title: Waku
+title: waku
 description: private messaging for ethereum
 published: true
-date: 2024-12-09T17:48:46.274Z
+date: 2024-12-09T17:48:47.719Z
 tags: communication
 editor: markdown
 dateCreated: 2024-11-29T14:50:56.688Z

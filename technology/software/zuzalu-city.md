@@ -2,7 +2,7 @@
 title: Zuzalu.city
 description: Zuzalu Software
 published: true
-date: 2024-12-09T17:44:11.332Z
+date: 2024-12-09T17:44:12.854Z
 tags: software, zuzalu
 editor: markdown
 dateCreated: 2024-11-29T14:48:29.398Z

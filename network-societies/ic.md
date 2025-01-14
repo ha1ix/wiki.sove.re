@@ -2,7 +2,7 @@
 title: Intentional Communities
 description: 
 published: true
-date: 2024-12-10T18:51:37.558Z
+date: 2024-12-10T18:51:39.211Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-10T18:32:25.139Z

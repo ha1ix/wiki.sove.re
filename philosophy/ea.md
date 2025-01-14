@@ -2,7 +2,7 @@
 title: Effective Altruism
 description: rational philanthropy
 published: true
-date: 2024-12-10T12:02:51.524Z
+date: 2024-12-10T12:02:52.926Z
 tags: philosophy, philanthropy
 editor: markdown
 dateCreated: 2024-12-10T12:02:51.524Z

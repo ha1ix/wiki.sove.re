@@ -2,7 +2,7 @@
 title: Dunbar Number
 description: proposed limit to number of close relationships
 published: true
-date: 2024-12-09T13:57:51.192Z
+date: 2024-12-09T13:57:52.438Z
 tags: social
 editor: markdown
 dateCreated: 2024-12-09T13:27:52.556Z

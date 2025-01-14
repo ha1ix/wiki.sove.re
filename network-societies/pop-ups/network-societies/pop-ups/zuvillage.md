@@ -2,7 +2,7 @@
 title: ZuVillage Movement
 description: pop-ups in the style of Zuzalu
 published: true
-date: 2024-12-10T17:53:01.569Z
+date: 2024-12-10T17:53:02.879Z
 tags: zu
 editor: markdown
 dateCreated: 2024-12-10T12:43:29.647Z

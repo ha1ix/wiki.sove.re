@@ -1,8 +1,8 @@
 ---
-title: Contribute
+title: contribute
 description: How to contribute to the wiki
 published: true
-date: 2024-12-09T17:33:39.992Z
+date: 2024-12-09T17:33:41.498Z
 tags: meta, wiki-meta
 editor: markdown
 dateCreated: 2024-11-28T12:24:26.320Z

@@ -2,7 +2,7 @@
 title: technology
 description: Technology for human flourishing
 published: true
-date: 2025-01-14T17:02:38.256Z
+date: 2025-01-14T17:02:40.506Z
 tags: technology
 editor: markdown
 dateCreated: 2024-11-28T12:33:34.494Z

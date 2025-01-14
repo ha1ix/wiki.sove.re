@@ -2,7 +2,7 @@
 title: Defensive Accelerationism
 description: d/acc
 published: true
-date: 2024-12-10T12:02:05.703Z
+date: 2024-12-10T12:02:53.760Z
 tags: dacc
 editor: markdown
 dateCreated: 2024-12-06T14:09:08.535Z
