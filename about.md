@@ -2,7 +2,7 @@
 title: About
 description: about soverents, sove.re
 published: true
-date: 2024-12-06T13:35:40.664Z
+date: 2025-01-14T16:52:11.681Z
 tags: meta
 editor: markdown
 dateCreated: 2024-12-06T12:38:07.403Z
@@ -33,7 +33,7 @@ Sove.re is also for individuals who want to contribute to the network society pr
 
 # Who is behind Sove.re?
 
-Sove.re was initialized by [Riso Nonx](/People/Riso-Nonx) while attending [Edge City Lanna](/Network-Societies/Pop-Ups/Edge-City#lanna). 
+Sove.re was initialized by [Riso Nonx](/people/riso) while attending [Edge City Lanna](/network-societies/pop-ups/edge-city#lanna). 
 
 As soon as possible others will be invited to moderate and administrate the forum and wiki via DAO governance, and eventually the hosting infrastructure itself can be decentralized.
 
