@@ -2,12 +2,13 @@
 title: What is a Zuvillage?
 description: a reflection post Edge City Lanna
 published: true
-date: 2024-12-09T17:46:31.050Z
+date: 2025-01-14T17:01:16.157Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-04T11:46:47.841Z
 ---
 
+# COMPLETELY ROUGH ESSAY NOTES
 What is a pop up village? What is a ZuVillage? What is Edge City?
 
 The recent concept of "pop up villages" was coined in 2023 with a two-month long experiment in Montenegro called Zuzalu. It was a diverse mix of digital nomads, ethereum contributors, longevity enthusiasts, and other participants in cutting edge technologies, all of them interested in participating in a social experiment to test new ways of spending time day-to-day in a physical community. Explicitly, attendees were interested in testing new technologies that benefit from in person gathering over an extended period, such as applied programmable cryptography and novel governance models, and they had the high level of technical understanding and patience to enjoy the experience. To this end Zuzalau was a success, some interesting new applications were battle tested and have now been iterated, such as the zero-knowledge community stack by Zuzalu.city. Novel technology incubator is not a bad way to describe nascent pop-up villages. Based on my recent month-long experience at Edge City Lanna, organized by much of the same team as Zuzalu, another definition of a pop up village is a place where people come together for a period of time and ask eachother and themselves, "what is a pop up village?" Like the paradoxical image of lifting ones-self into the air by pulling on the straps of one's boots, pop up villages are a strange loop where pop up villages are invented. Many of the type of people that I met during my month in Chiang Mai I think would agree that this is a very satisfying definition, in a Hoefstadderian sense. The constant stream of new pop-ups emerging since Zuzalu is evidence that pop-up villages are pop-up village factories.
