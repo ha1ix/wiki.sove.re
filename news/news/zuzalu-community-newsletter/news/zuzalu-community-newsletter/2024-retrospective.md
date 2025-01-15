@@ -1,8 +1,8 @@
 ---
-title: Untitled Page
+title: Zuzalu Community Newsletter: 2024 Retrospective
 description: 
 published: true
-date: 2025-01-15T13:20:32.731Z
+date: 2025-01-15T13:21:11.386Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-15T12:54:50.720Z
