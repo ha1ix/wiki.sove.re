@@ -2,13 +2,14 @@
 title:  Soverents Commons
 description: The Sove.re Community
 published: true
-date: 2025-01-14T17:17:32.122Z
+date: 2025-01-15T11:56:45.911Z
 tags: meta
 editor: markdown
 dateCreated: 2024-11-28T14:35:15.788Z
 ---
 
-Sove.re is neutral, open source community commons infrastructure to fill a communication/information gap in the network-societies ecosystem. Read more about it [here](/about). It hosts a [this wiki](https://wiki.sove.re), a [forum](https://forum.sove.re), encrypted [collborative docs](https://docs.sove.re), and a [calendar](https://docs.sove.re/calendar/#/2/calendar/view/RxxkYfLh-7yPbqzGv-c13a1ofRZkJF0QVWYTKXuqXf8/).
+Sove.re is neutral, open source community commons infrastructure to fill a communication/information gap in the network-societies ecosystem. Read more about it [here](/about). It hosts a [this wiki](https://wiki.sove.re), a [forum](https://forum.sove.re), and a [lunarpunk themed microblog server](https://grange.la).
+
 
 # Explore
 The navigation bar to the left shows the major categories of the wiki. 
