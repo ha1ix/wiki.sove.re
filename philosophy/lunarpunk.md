@@ -2,7 +2,7 @@
 title: Lunarpunk
 description: solarpunk x cypherpunk = lunarpunk
 published: true
-date: 2025-01-20T09:28:59.807Z
+date: 2025-01-20T09:31:16.511Z
 tags: philosophy, solarpunk, lunarpunk
 editor: markdown
 dateCreated: 2025-01-20T09:08:06.645Z
@@ -28,7 +28,7 @@ In addition to the solarpunk ideals, lunarpunk emphasizes:
 One could imagine solarpunk as the utopian end goal, and lunarpunk as the pragmatism required to get there. Solarpunk x Cypherpunk = Lunarpunk
 
 # Manifestos
-### [Lunarpunk and the Darkside of the Cycle](philosophy/lunarpunk/darkfi/cycle)
+### [Lunarpunk and the Dark Side of the Cycle](philosophy/lunarpunk/darkfi/cycle)
 - A thorough description of lunarpunk in relation to solarpunk.
 ### [[A Lunarpunk Manifesto]](/philosophy/lunarpunk/manifesto)
 - An attempt at a concise platform that includes the concept of [cognitive sovereignity](/philosophy/cogsov)
