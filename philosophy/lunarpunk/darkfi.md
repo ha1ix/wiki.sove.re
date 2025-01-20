@@ -2,11 +2,15 @@
 title: DarkFi Manifesto
 description: 
 published: true
-date: 2025-01-20T09:13:02.070Z
+date: 2025-01-20T09:31:34.785Z
 tags: lunarpunk
 editor: markdown
 dateCreated: 2025-01-20T09:13:02.070Z
 ---
+
+Dark.fi is building (and has launched) impressive highly privacy-centric infrastructure for lunarpunk communities.
+
+
 
 # Summary
 ## The Going Dark Problem (2013)
@@ -25,7 +29,7 @@ Tokenization to create economic networks
 DAOs for community governance
 Zero-knowledge proofs enabling anonymous operations
 Multi-chain architecture
-** Vision
+## Vision
 Split between regulated crypto (RegFi) and underground crypto (DarkFi)
 Creating parallel societies free from external coercion
 Using crypto-anarchy and privacy tech to enable economic freedom
@@ -35,6 +39,11 @@ Operational testnet
 Open source (github.com/darkrenaissance/darkfi)
 Regular developer meetings
 Focus on building anonymous applications and services
+
+# Related Works
+- https://dark.fi/insights/lunarpunk-practice.html 
+- https://dark.fi/insights/memetic-warfare.html
+- See also this thorough [description, especially how it relates solarpunk](/philosophy/philosophy/lunarpunk/darkfi/cycle).
 
 # Mirror
 via https://dark.fi/manifesto.html as of January 2025
