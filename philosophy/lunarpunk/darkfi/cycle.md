@@ -2,7 +2,7 @@
 title: Lunarpunk and the Dark Side of the Cycle
 description: an early description of lunarpunk in relation to cypherpunk
 published: true
-date: 2025-01-20T13:46:12.008Z
+date: 2025-01-20T14:06:10.216Z
 tags: lunarpunk
 editor: markdown
 dateCreated: 2025-01-20T09:21:10.386Z
@@ -32,6 +32,9 @@ Regulatory pressure strengthens system
 Lunarpunk offers resilience solarpunk lacks
 Privacy essential for long-term survival
 Solarpunk must embrace privacy ("go dark") to succeed
+
+# More
+Interview with the author: https://diffractionscollective.org/zero-knowledge-during-the-dark-lunar-cycle-w-rachel-rose-oleary/
 
 # Mirror
 via https://dark.fi/insights/dark-side-of-the-cycle.html as of January 2025
