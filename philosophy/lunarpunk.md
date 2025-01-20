@@ -2,13 +2,13 @@
 title: Lunarpunk
 description: solarpunk x cypherpunk = lunarpunk
 published: true
-date: 2025-01-20T09:08:06.645Z
+date: 2025-01-20T09:28:59.807Z
 tags: philosophy, solarpunk, lunarpunk
 editor: markdown
 dateCreated: 2025-01-20T09:08:06.645Z
 ---
 
-The term "lunarpunk" has been used as a specific subset/addition/clarification to [solarpunk](/philosophy/solarpunk). It envisions the same sustainable, human-centric future based on technological development with an emphasis on the need for "defensive technologies" and caution. For this reason it could be considered ["defensive accelerationism"](/philosophy/dacc). Lunarpunk takes the imagined solarpunk world and adds some specific qualifications that are intended to ground the philosophy in a more defensive/offensive mindset.
+The term "lunarpunk" has been used as a specific subset/addition/clarification to [solarpunk](/philosophy/solarpunk). It envisions the same sustainable, human-centric future based on technological development with an emphasis on the need for "defensive technologies," especially strong cryptography, and pragmatic caution. For this reason it could be considered ["defensive accelerationism"](/philosophy/dacc). Lunarpunk takes the imagined solarpunk world and adds some specific qualifications that are intended to ground the philosophy in a more defensive/offensive mindset.
 
 In addition to the solarpunk ideals, lunarpunk emphasizes:
 ## Decentralization
@@ -28,6 +28,8 @@ In addition to the solarpunk ideals, lunarpunk emphasizes:
 One could imagine solarpunk as the utopian end goal, and lunarpunk as the pragmatism required to get there. Solarpunk x Cypherpunk = Lunarpunk
 
 # Manifestos
+### [Lunarpunk and the Darkside of the Cycle](philosophy/lunarpunk/darkfi/cycle)
+- A thorough description of lunarpunk in relation to solarpunk.
 ### [[A Lunarpunk Manifesto]](/philosophy/lunarpunk/manifesto)
 - An attempt at a concise platform that includes the concept of [cognitive sovereignity](/philosophy/cogsov)
 
