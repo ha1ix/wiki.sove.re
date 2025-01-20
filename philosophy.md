@@ -2,7 +2,7 @@
 title: philosophy
 description: intellectual underpinings of Network-Societies
 published: true
-date: 2025-01-14T17:04:12.817Z
+date: 2025-01-20T14:04:32.615Z
 tags: philosophy
 editor: markdown
 dateCreated: 2024-12-03T14:32:08.150Z
@@ -12,6 +12,10 @@ dateCreated: 2024-12-03T14:32:08.150Z
 Network-society is fundamentally about improving and [defending human agency](/philosophy/dacc). The path toward a world that is the most accommodating to this and other human values requires experimentation and iteration. Network-societies are incubators for testing new ways to foster sovereignity, coordination, transparency, and governance. By furthering these foundations of liberty and freedom future societies will be able to better pursue human flourishing in its many personal forms.
 
 # Common Philosophies
+- [Positive Sum Externalities](https://www.economicshelp.org/micro-economic-essays/marketfailure/positive-externality/)
+- Public Goods
+	- goods that are non-excludable and non-rivalrous
+- [Positive Sum World Building](https://otherinter.net/research/positive-sum-worlds/)
 
 ## [Pluralism](/philosophy/pluralism)
 Based on the thoughts out of [RadicalXChange].
