@@ -2,7 +2,7 @@
 title: Lunarpunk and the Dark Side of the Cycle
 description: an early description of lunarpunk in relation to cypherpunk
 published: true
-date: 2025-01-20T09:21:10.386Z
+date: 2025-01-20T13:46:12.008Z
 tags: lunarpunk
 editor: markdown
 dateCreated: 2025-01-20T09:21:10.386Z
