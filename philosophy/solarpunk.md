@@ -2,7 +2,7 @@
 title: Solarpunk
 description: optimistic view of the future
 published: true
-date: 2024-12-09T18:22:57.175Z
+date: 2025-01-20T09:30:15.850Z
 tags: philosophy, solarpunk
 editor: markdown
 dateCreated: 2024-12-09T14:51:04.510Z
@@ -32,17 +32,5 @@ Solarpunk has a strong visual aesthetic, often showing walkable cities, small, d
 A video called Dear Alice that went viral for its depiction of a solar punk lifestyle. Notice the abundance of technology, community, and integration with the natural environment. *Note: this was originally a yogurt ad, but [this version](https://www.youtube.com/watch?v=UqJJktxCY9U) has been decommodified*.
 
 # Lunarpunk
-The term "lunarpunk" has been used as a specific subset/addition/clarification to solarpunk. It envisions the same sustainable, human-centric future based on technological development with an emphasis on the need for "defensive technologies" and caution. For this reason it could be considered ["defensive accelerationism"](/philosophy/dacc). Lunarpunk takes the imagined solarpunk world and adds some specific qualifications that are intended to ground the philosophy in a more defensive/offensive mindset.
-
-In addition to the solarpunk ideals, lunarpunk emphasizes:
-- Decentralization
-    - Decentralization is not just a more local approach to community infrastructure, it is fundamental.
-- Individual sovereignity
-    - While solarpunk is not collectivist to the detriment of the individual, lunarpunk makes this qualification explicit. Individual agency and liberty is paramount.
-    - To this end, individual privacy is lunarpunk requisite, and [programmable cryptography](technology/software/programmable-cryptography) is as fundamental as ecologically responsible technologies.
-- Caution
-     - While lunarpunk believes a much better civilization is possible, it points out that a better future is in no way inevitable and requires extensive effort to build toward.
-     - Lunarpunk also emphasizes the many risks between us and the future we want, many of them existential, such as climate change, political disfunction, global pandemics, AI, and unknown unknowns.
-     
-One could imagine solarpunk as the utopian end goal, and lunarpunk as the pragmatism required to get there.
-
+Solarpunk x Cypherpunk = [[Lunarpunk]](/philosophy/lunarpunk).
+For a thorough comparison to solarpunk see [Lunarpunk and the Dark Side of the Cycle](/philosophy/lunarpunk#lunarpunk-and-the-dark-side-of-the-cycle).
