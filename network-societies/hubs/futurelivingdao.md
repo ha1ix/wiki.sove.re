@@ -2,7 +2,7 @@
 title: Future Living DAO
 description: 
 published: true
-date: 2025-01-21T14:58:41.566Z
+date: 2025-01-21T15:00:23.058Z
 tags: philosophy, hub, hubs, organization
 editor: markdown
 dateCreated: 2025-01-21T14:58:41.566Z
@@ -40,4 +40,5 @@ The Future Living DAO has coined the phrase 'Ultramodern' to reflect a new kind 
 # Links
 * Telegram:
 * [Manifesto](https://docs.google.com/document/d/14-LUh3rcJA6cke6h7lqaJnk2qWD-IOByKbOiXAjk9oQ/edit?usp=sharing)
-	* [CryptPad Mirror](https://docs.sove.re/pad/#/2/pad/view/GoBYV0lBqHwFlKd0kL9-3pA+c9nakRsbGzU6qX1eVNM/) [21/01/2025]
+	* [Unofficial Mirror](https://docs.sove.re/pad/#/2/pad/view/GoBYV0lBqHwFlKd0kL9-3pA+c9nakRsbGzU6qX1eVNM/) [21/01/2025]
+* [Unofficial Forum](https://forum.sove.re/category/32/future-living-dao)
