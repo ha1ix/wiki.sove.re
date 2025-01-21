@@ -2,7 +2,7 @@
 title: Riso Nonx
 description: b0y.eu
 published: true
-date: 2025-01-14T17:00:40.716Z
+date: 2025-01-21T16:46:51.106Z
 tags: people
 editor: markdown
 dateCreated: 2024-12-04T09:01:16.788Z
@@ -17,6 +17,10 @@ Riso studied cognitive science at the University of California, has been a vipas
 He also has a complete physical collection of Whole Earth Catalogs, including the CoEvolution Quarterly and Whole Earth Review magazines.
 
 # Writing
+## Less Rough
+* [A Lunarpunk Manifesto](/philosophy/lunarpunk/manifesto)
+
+## Very Rough
 * [What is a ZuVillage?](/people/riso/what-is-zu)
 
 # Links
