@@ -2,7 +2,7 @@
 title: hubs
 description: Permanent or semi-permanent locality network-societies
 published: true
-date: 2024-12-10T18:32:30.271Z
+date: 2025-01-21T14:58:56.093Z
 tags: hub
 editor: markdown
 dateCreated: 2024-12-05T11:01:14.651Z
@@ -11,7 +11,7 @@ dateCreated: 2024-12-05T11:01:14.651Z
 # Overview
 Hubs are physical places that will not move, as opposed to a Pop-Up City which may occur in a different location on each iteration. Hubs could be open year round or operate seasonally. Hubs may have long term residents, although as opposed to many existing intentional communities, Hubs  maintain their accessibility to digital nomads and temporary visitors.
 
-# Hub: A Modern Third Place^1^
+# Hub: A Modern Third Place
 
 ## Vision
 A new category of community space designed to bridge the gap between libraries, coworking spaces, malls, and social clubs. Hubs serve as "third places" - spaces between home and work where people can gather, work, and connect.
@@ -70,58 +70,11 @@ A new category of community space designed to bridge the gap between libraries, 
 ## Vision of Success
 The ultimate goal is for "Hub" to become a recognized venue category alongside cafes, restaurants, and libraries, representing a new standard in community spaces that combines commerce, culture, and community.
 
-# List by Country
+# Resources
+* [Hubs.city](https://hubs.city)
 
-## Europe
+# Meta Organizations
+* [Future Living Dao](/network-societies/hubs/futurelivingdao)
 
-### Portugal
+# [List of Hubs](/network-societies/hubs/list)
 
-#### [Traditional Dream Factory](/Network-Societies/Hubs/TDF)
-Five hectare co-living in Abela, Portugal. Has a token and DAO.
-
-## South America
-
-### Honduras
-
-#### [Vitalia.City](/Network-Societies/Hubs/Vitalia-City)
-
-## Additional Resources^1^
-
-### Research & Theory
-- [Social Identity in Third Places](https://journals.sagepub.com/doi/full/10.1177/0733464820975422)
-- [Third Places and Neighborhood Entrepreneurship](https://www.nber.org/papers/w17000)
-- Ray Oldenburg's third place theory
-
-### Alternative Models
-- [Housing Co-ops Guide](https://cccd.coop/co-op-info/co-op-types/housing-co-ops)
-- [Steward Ownership Model](https://medium.com/bettersharing/steward-ownership-is-capitalism-2-0-76a1c50a6d88)
-- [On What Matters - Sharetribe](https://www.sharetribe.com/balanced/on-what-matters/)
-
-## Example Spaces
-
-### Active Hubs
-- [Ledger Bentonville](https://ledgerbentonville.com/) - World's first bikeable building
-- [Commongrounds Cooperative](https://www.commongrounds.coop/) - Community events and arts
-- [Forum Groningen](https://www.designboom.com/architecture/nl-architects-forum-groningen-netherlands/) - Cultural department store
-- [The Commons Bangkok](https://www.thecommonsbkk.com/) - Community-focused retail and gathering
-- [DADFA Community Mall](https://www.archdaily.com/901661/dadfa-community-mall-m-space) - Pilot community project
-- **Mars College** | [Website](https://mars.college/) | Bombay Beach, CA, USA | Coliving,Coworking,High-tech | Chinese,English,German,Portuguese,Spanish | Techsavvy
-- **L'Hermitage** | [Website](https://www.hermitagelelab.com/) | Paris, France | Coliving,Coworking,High-tech,Regeneration 🌱 | English,French | Techsavvy
-- **Aardehuis** | [Website](https://imgur.com/gallery/KbPrjkp) | Olst, Netherlands | Coliving,High-tech,Regeneration 🌱 | Dutch,English | Techsavvy
-- **MOOS** | [Website](https://moos.space/about/) | Berlin, Germany | Coliving,Collective,Coworking,High-tech | English,German | Artistic
-- **Future Thinkers** | [Website](https://futurethinkers.org/) | Canada | Coliving,High-tech,Web3 | English | Techsavvy
-- **Feytopia** | [Website](https://feytopia.com/) | France | Collective,High-tech | English,French | Techsavvy
-
-### Modern Community Spaces
-- [Jaego's House](https://www.jaegoshouse.co.uk/)
-- [Verci](https://www.verci.com/)
-- [Switchyards](https://switchyards.com/)
-- [Moonrise](https://www.moonrise.com/)
-- [Savanna](https://www.mysavanna.co/)
-- [Fractal](https://fractalnyc.com/)
-- [Ambivert](https://www.ambivert.me/)
-- [Trehaus](https://www.trehaus.co/flagship-singapore/)
-- [Creator House by ALLSHIPS](https://allships.co/creator-house)
-
-# Sources
-1. https://hub.eudaform.org/
