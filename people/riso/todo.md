@@ -2,7 +2,7 @@
 title: Personal Todo List
 description: 
 published: true
-date: 2025-01-23T08:32:44.168Z
+date: 2025-01-23T09:04:31.938Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T08:32:44.168Z
@@ -21,3 +21,13 @@ dateCreated: 2025-01-23T08:32:44.168Z
 * Set up SAFE wallet
 * Set up Railgun
 * Set up [second] privacy wallet.
+
+## DAOs
+
+### HAI
+* Buy HAI and KITE
+* Get rEth
+* Stake rETH
+* Join Let's Get Hai governance
+	* https://common.xyz/lets-get-hai/discussions
+  * https://www.tally.xyz/gov/hai/
