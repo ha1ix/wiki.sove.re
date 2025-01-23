@@ -2,7 +2,7 @@
 title: Personal Todo List
 description: 
 published: true
-date: 2025-01-23T11:00:43.222Z
+date: 2025-01-23T11:01:35.765Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T08:32:44.168Z
@@ -12,6 +12,7 @@ dateCreated: 2025-01-23T08:32:44.168Z
 ## Wiki
 ## Forum
 ## LaGrange
+* Make RSS feed of https://lu.ma/zuzalutownhall/ and make a zuzalu acct?
 
 # Writing
 * Edit first paragraph of [A Lunarpunk Manifesto](/philosophy/lunarpunk/manifesto)
