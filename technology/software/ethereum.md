@@ -2,7 +2,7 @@
 title: ethereum
 description: 
 published: true
-date: 2025-01-23T09:08:21.425Z
+date: 2025-01-23T09:09:13.326Z
 tags: eth
 editor: markdown
 dateCreated: 2024-12-04T17:49:04.812Z
@@ -15,7 +15,9 @@ Ethereum is big and how much is necessary to cover in a network-societies wiki i
 ## Algorithmic
 ### Unpegged
 * [RAI](reflexer.finance)
+	- https://xcancel.com/reflexerfinance
 * [HAI](letsgethai.com)
+* https://mixbytes.io/blog/security-of-algorithmic-stablecoins
 # Token Bridges
 <a href="https://smolrefuel.com/?outboundChain=42220" target="_blank" rel="noopener noreferrer">SmolRefuel (Gassless Bridging)</a></li>
 <li><a href="https://v2.app.squidrouter.com/" target="_blank" rel="noopener noreferrer">Squid Router V2</a></li>
