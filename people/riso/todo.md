@@ -2,7 +2,7 @@
 title: Personal Todo List
 description: 
 published: true
-date: 2025-01-23T10:58:27.351Z
+date: 2025-01-23T11:00:43.222Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T08:32:44.168Z
@@ -20,6 +20,9 @@ dateCreated: 2025-01-23T08:32:44.168Z
 
 ## VMs
 * Make a new wallet VM with whonix
+* Make Alpine VM
+* New rage and rsign2 public keys
+    * https://keys.pub/
 ## Wallets
 * Set up SAFE wallet
       * https://app.safe.global/new-safe/create?chain=oeth
