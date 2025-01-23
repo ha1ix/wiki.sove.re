@@ -2,7 +2,7 @@
 title: Personal Todo List
 description: 
 published: true
-date: 2025-01-23T10:56:28.096Z
+date: 2025-01-23T10:57:50.490Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T08:32:44.168Z
@@ -24,11 +24,17 @@ dateCreated: 2025-01-23T08:32:44.168Z
     * https://www.railway.xyz/
     * https://tokenshielder.com/
 * Set up Umbra, labrynth, privacy wallet.
+    * https://app.umbra.cash/setup
 
 ## DAOs
 
 ### HAI
+* Bridge OP 
+    * https://superbridge.app/optimism
+    * https://www.brid.gg/op-mainnet?amount=&originChainId=1&token=ETH
+    * https://www.optimism.io/apps
 * Buy HAI and KITE
+    * https://app.uniswap.org/swap
 * Get rEth
 * Stake rETH
 * Join Let's Get Hai governance
