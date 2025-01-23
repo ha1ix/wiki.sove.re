@@ -2,7 +2,7 @@
 title: Personal Todo List
 description: 
 published: true
-date: 2025-01-23T09:04:31.938Z
+date: 2025-01-23T10:55:53.261Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T08:32:44.168Z
@@ -19,8 +19,10 @@ dateCreated: 2025-01-23T08:32:44.168Z
 # Meta
 ## Wallets
 * Set up SAFE wallet
+      * https://app.safe.global/new-safe/create?chain=oeth
 * Set up Railgun
-* Set up [second] privacy wallet.
+    * https://www.railway.xyz/
+* Set up Umbra, labrynth, privacy wallet.
 
 ## DAOs
 
