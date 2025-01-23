@@ -2,7 +2,7 @@
 title: Personal Todo List
 description: 
 published: true
-date: 2025-01-23T10:57:50.490Z
+date: 2025-01-23T10:58:27.351Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-23T08:32:44.168Z
@@ -17,6 +17,9 @@ dateCreated: 2025-01-23T08:32:44.168Z
 * Edit first paragraph of [A Lunarpunk Manifesto](/philosophy/lunarpunk/manifesto)
 
 # Meta
+
+## VMs
+* Make a new wallet VM with whonix
 ## Wallets
 * Set up SAFE wallet
       * https://app.safe.global/new-safe/create?chain=oeth
@@ -35,8 +38,9 @@ dateCreated: 2025-01-23T08:32:44.168Z
     * https://www.optimism.io/apps
 * Buy HAI and KITE
     * https://app.uniswap.org/swap
+    * https://www.letsgethai.com/auctions
 * Get rEth
-* Stake rETH
+* Stake rETH on HIA
 * Join Let's Get Hai governance
 	* https://common.xyz/lets-get-hai/discussions
   * https://www.tally.xyz/gov/hai/
