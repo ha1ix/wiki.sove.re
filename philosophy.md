@@ -27,6 +27,9 @@ As a response to effective accelerationism [e/acc](/philosophy/eacc), which in t
 
 ## [Cypherpunk](/philosophy/cypherpunk)
 
+## [DeSci](/philosophy/desci)
+Decentralized Science. Applying Web3 tools to research funding, publication, and IP. Longevity research was a founding track at Zuzalu.
+
 # [Pop Up Specific](https://wiki.sove.re/en/network-societies/pop-ups#philosophy)
 Click above to see philosophies that apply more specifically to pop ups (as compared to network states or nations).
 
