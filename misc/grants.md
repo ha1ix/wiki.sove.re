@@ -11,6 +11,7 @@ dateCreated: 2024-12-10T18:20:09.520Z
 
 # Mechanisms
 - [Quadratic Funding](/technology/software/quadratic-funding) — the dominant matching mechanism in the Ethereum ecosystem. Used by Gitcoin Grants.
+- [Gitcoin](/technology/software/gitcoin) — primary QF implementation for Ethereum public goods.
 - [ECF Pensieve](/technology/software/ecf-pensieve) — Ethereum Community Fund's permissionless grant platform. Scores projects on transparency and accountability; includes a ZuVillage-specific grant round.
 
 # Some Grants compiled by [Agartha](https://flame-spice-8c2.notion.site/GRANTS-779361aa5feb4db6977280c820410e8c)
