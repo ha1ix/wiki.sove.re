@@ -18,7 +18,7 @@ Zuzalu has inspired a series of other [Pop-Ups](/network-societies/pop-ups), not
 
 ## Future
 
-Zuzalu has incorporated as a non-profit providing funding for related projects and is aiming to loosely define what is a [ZuVillage](network-societies/pop-ups/zuvillage).
+Zuzalu has incorporated as a non-profit providing funding for related projects and is aiming to loosely define what is a [ZuVillage](/network-societies/pop-ups/zuvillage).
 
 
 # Content ^1^
