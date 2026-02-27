@@ -88,7 +88,8 @@ The annual Ethereum developer conference. Functions as a gravity well for the po
 ## [Zuzalu](/network-societies/pop-ups/zuzalu)
 The first contemporary pop up city experiment in Montenegro, March 25-May 25, 2023. Kicked off the subsequent pop-up village trend sometimes called the ["ZuVillage"](/network-societies/pop-ups/zuvillage) movement.
 
-
+## [ZuConnect](/network-societies/pop-ups/zuconnect)
+Second major Zuzalu popup, Istanbul, Oct–Nov 2023. ~300 residents, held immediately before DevConnect.
 
 # Ecosystem
 
