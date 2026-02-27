@@ -16,7 +16,9 @@ They have three "impact areas:"
 * Incubate projects
 * Advance governance and community models
 
-Edge City is part of the [ZuVillage](/network-societies/pop-ups/zuvillage) lineage of pop-ups, with co-founder Janine Leger also organizing the original [Zuzalu](/network-societies/pop-ups/zuzalu)
+Edge City is part of the [ZuVillage](/network-societies/pop-ups/zuvillage) lineage of pop-ups, with co-founder Janine Leger also organizing the original [Zuzalu](/network-societies/pop-ups/zuzalu).
+
+In his December 2025 essay [*Let a thousand societies bloom*](https://vitalik.eth.limo/general/2025/12/17/societies.html), Vitalik Buterin wrote: *"One of the Zu spinoffs, Edge City, has perfected a pipeline of organizing them, and I have heard that they are at this point a cash-flow-positive business."*
 # Past Pop-Ups
 ## 2024
 ## Edge Denver 

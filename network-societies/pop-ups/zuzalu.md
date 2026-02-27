@@ -14,11 +14,21 @@ Following a 2021 blog post called [Crypto-Cities](/network-societies/crypto-citi
 ## Legacy
 Vitalik wrote about his Zuzalu experience in an article, [Why I Built Zuzalu](/network-societies/pop-ups/zuzalu/why-vb).
 
-Zuzalu has inspired a series of other [Pop-Ups](/network-societies/pop-ups), notably the [Chiang Mai Archipelago 2024](/network-societies/archipelago2024) which had over a dozen experimental pop-up villages in the same vicinity.
+Zuzalu has inspired a series of other [Pop-Ups](/network-societies/pop-ups), notably the [Chiang Mai Archipelago 2024](/network-societies/archipelago2024) which had over a dozen experimental pop-up villages in the same vicinity. The second major Zuzalu event was [ZuConnect](/network-societies/pop-ups/zuconnect) in Istanbul (Oct–Nov 2023).
 
 ## Future
 
 Zuzalu has incorporated as a non-profit providing funding for related projects and is aiming to loosely define what is a [ZuVillage](/network-societies/pop-ups/zuvillage).
+
+## Reflections (2025)
+
+In a December 2025 essay, [*Let a thousand societies bloom*](https://vitalik.eth.limo/general/2025/12/17/societies.html), Vitalik distilled lessons from the original experiment and subsequent popups:
+
+> "200 people (roughly Dunbar's number) is an excellent size for a popup... 1-2 months is an excellent duration for a popup. The reason is that the duration affects the attitude that people have: a week is a break from your life, two months is your life."
+
+> "What you want is 'a college at 25% intensity': enough to stimulate people, but not enough to tire people out."
+
+> "The most sustainable approach that I have discovered is what we did in Chiang Mai, where 5-10 popups, each independently bringing 30-300 people, co-located in the same city around the same time."
 
 
 # Content ^1^

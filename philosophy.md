@@ -27,6 +27,9 @@ As a response to effective accelerationism [e/acc](/philosophy/eacc), which in t
 
 ## [Cypherpunk](/philosophy/cypherpunk)
 
+## [Phyles](/philosophy/phyles)
+David de Ugarte's concept of transnational cultural-economic networks. Cited by Vitalik as an intellectual precursor to Zuzalu.
+
 ## [DeSci](/philosophy/desci)
 Decentralized Science. Applying Web3 tools to research funding, publication, and IP. Longevity research was a founding track at Zuzalu.
 
