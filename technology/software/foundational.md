@@ -16,3 +16,6 @@ If projects build with these they are, at least for the time being, likely align
 * Zuzalu Software
 ## [Waku/Whisper](/technology/software/waku)
 * An evolution of Whisper for decentralized private communication for blockchains.
+
+## [Zupass](/technology/software/zupass)
+* ZK identity and credential wallet. The identity layer for ZuVillages.
