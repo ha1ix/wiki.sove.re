@@ -16,7 +16,8 @@ These are lower-level projects that are useful for others to build with. They ge
 
 ## [Social](/technology/social)
 ## [Identity](/technology/software/identity)
-## [Financial](/technology/software/financial)
+## Financial
+- [Quadratic Funding](/technology/software/quadratic-funding) — matching mechanism that weights number of contributors over amounts; used by Gitcoin
 ## [Communication](/technology/software/communication)
 ## [Privacy](/technology/software/privacy)
 Lots of crossover with other software areas.

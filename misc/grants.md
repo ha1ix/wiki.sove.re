@@ -9,6 +9,9 @@ dateCreated: 2024-12-10T18:20:09.520Z
 ---
 
 
+# Mechanisms
+- [Quadratic Funding](/technology/software/quadratic-funding) — the dominant matching mechanism in the Ethereum ecosystem. Used by Gitcoin Grants.
+
 # Some Grants compiled by [Agartha](https://flame-spice-8c2.notion.site/GRANTS-779361aa5feb4db6977280c820410e8c)
 - **Mask Protocol**
 - **Komorebi** - https://twitter.com/KomorebiFund - women in web3
