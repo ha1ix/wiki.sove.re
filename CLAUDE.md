@@ -22,6 +22,14 @@ Low signal / apply scrutiny: projects claiming Zuzalu affiliation with no direct
 - Markdown files with Wiki.js YAML frontmatter
 - Caddy reverse proxies wiki.sove.re → localhost:3001
 
+## Style guide
+
+Articles are skeletons — cover the essential concept, link to primary sources, stop. Others will expand over time. Avoid padding with background a reader can find on Wikipedia. One tight paragraph beats three loose ones.
+
+**Factual accuracy is non-negotiable.** Wrong information is worse than no information — it poisons the wiki for every reader after. If uncertain about a specific claim, omit it or link to a primary source rather than paraphrase from memory. Do not fill gaps with plausible-sounding inference.
+
+When creating a new page, also edit the most applicable parent page to add a link. If a page has no inbound links it won't be discovered.
+
 ## Content conventions
 
 - All page paths lowercase: `/network-societies/pop-ups/zupass` not `/Pop-Ups/Zupass`
@@ -48,7 +56,6 @@ git push origin topic/new-page-name
 ## Priority gaps (as of 2025-02)
 
 Missing pages that matter most:
-- `technology/software/zupass.md` — ZK identity, created at Zuzalu, used everywhere
 - `people/vitalik-buterin.md` — referenced constantly, no page
 - `network-societies/pop-ups/devcon.md` — VB's primary event, ZuVillages cluster around it
 - `technology/software/quadratic-funding.md` — VB co-authored paper, Gitcoin built on it

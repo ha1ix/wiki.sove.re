@@ -9,4 +9,4 @@ dateCreated: 2024-12-04T09:02:01.229Z
 ---
 
 # Key Figures
-* Vitalik Buterin
+* [Vitalik Buterin](/people/vitalik-buterin)
