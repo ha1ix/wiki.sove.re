@@ -86,7 +86,7 @@ The following is reproduced from a Devcon7 talk.^1^
 The annual Ethereum developer conference. Functions as a gravity well for the pop-up ecosystem — villages frequently cluster around it geographically and temporally.
 
 ## [Zuzalu](/network-societies/pop-ups/zuzalu)
-The first contemporary pop up city experiment in Montenegro, March 25-May 25, 2023. Kicked off the subsequent pop-up village trend sometimes called the ["ZuVillage"](/network-societies/pop-ups/network-societies/pop-ups/zuvillage) movement.
+The first contemporary pop up city experiment in Montenegro, March 25-May 25, 2023. Kicked off the subsequent pop-up village trend sometimes called the ["ZuVillage"](/network-societies/pop-ups/zuvillage) movement.
 
 
 
