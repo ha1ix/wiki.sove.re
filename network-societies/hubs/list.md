@@ -2,7 +2,7 @@
 title: Hub List
 description: constantly growing, please contribute
 published: true
-date: 2025-01-21T14:45:06.669Z
+date: 2026-03-01T00:00:00.000Z
 tags: hub, hubs
 editor: markdown
 dateCreated: 2025-01-21T14:45:06.669Z
@@ -17,14 +17,22 @@ dateCreated: 2025-01-21T14:45:06.669Z
 #### [Traditional Dream Factory](/Network-Societies/Hubs/TDF)
 Five hectare co-living in Abela, Portugal. Has a token and DAO.
 
+## Asia
+
+### Thailand
+
+#### 4seas — Chiang Mai
+Two nodes in Chiang Mai (one city, one mountain), operated by 4seas. Featured at flags alongside Bitcoin, Ethereum, Plancker, and 706 communities. Cited by Vitalik in [*Let a Thousand Societies Bloom*](/network-societies/societies-vb) as an example of a permanent hub resisting cultural regression.
+
 ## South America
 
 ### Argentina
-- [Aleph](https://aleph.crecimiento.build/)
+- [Aleph](https://aleph.crecimiento.build/) — part of Crecimiento
 
 ### Honduras
 
 #### [Vitalia.City](/Network-Societies/Hubs/Vitalia-City)
+Longevity-focused hub. Has already forked into two independent successors — an example of "forking as governance" working in practice.
 
 ## Additional Resources^1^
 
