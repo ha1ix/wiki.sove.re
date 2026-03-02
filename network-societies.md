@@ -89,8 +89,18 @@ These are their own category outside of the specific scope of this wiki, but sha
    - May seek
    
 ### Examples
-* [Chiang Mai Archipelago 2024 ](/network-societies/archipelago2024)
+* [Chiang Mai Archipelago 2024](/network-societies/archipelago2024)
 * [Balajian Network States](https://docs.sove.re/sheet/#/3/sheet/edit/ce2a6be7892e3bf3900f5c1677c7e2fe/) are an example.
+
+# Key Writing
+
+* [*Let a Thousand Societies Bloom*](/network-societies/societies-vb) — Vitalik Buterin, December 2025. The most developed framework for the space: Tribes, Hubs, Zones, and the Archipelago.
+* [*What Do I Think About Network States?*](/network-societies/network-states-vb) — Vitalik Buterin, 2022
+* [*Crypto Cities*](/network-societies/crypto-cities-vb) — Vitalik Buterin, 2021
+
+# Ecosystem Coordination
+
+* [ZuZone](/network-societies/zuzone) — connective layer for the Zuzalu ecosystem; publishes the community newsletter (Zuletter)
 
 # Discussion
 These classifications are mostly hypothetical and evolving. Please contribute your insights and discuss at [this forum topic](https://forum.sove.re/topic/34/taxonomy-of-network-societies)
