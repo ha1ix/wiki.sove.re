@@ -52,6 +52,10 @@ Hospital options across the Gulf islands vary. Ko Samui has the most established
 
 ## Bangkok
 
+### Overview
+
+Frequently recommended as the easiest affordable entry point for digital nomad beginners. Infrastructure, cost of living, and existing nomad community lower the barrier to entry. Some long-term nomads have settled in Bangkok specifically for routine and stability after years of moving. Pollution and sleaze noted as persistent downsides.
+
 ### Food
 
 Healthy eating: Tom Kha Gai and Tom Yum widely available as lower-oil Thai options. Low-oil delivery options exist on Grab but require searching. Finding no-plastic, genuinely low-oil delivery remains difficult.
