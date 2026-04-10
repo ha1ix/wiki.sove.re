@@ -30,6 +30,12 @@ Mixed reports on atmosphere. Some friction between locals and tourists reported 
 
 Burning season runs roughly February–April. As of mid-March 2026: AQI hits red levels in mornings, but conditions varied (some cloudy/rainy days keeping it manageable). Rain has been reported to significantly improve air quality during this period. Air purifiers available in some coworking spaces and hotels — worth confirming before booking. Nomad presence still active during this period despite the air quality.
 
+As of early April 2026: air quality continuing to worsen through the season. Some nomads staying through regardless, waiting for Songkran.
+
+### Neighborhoods
+
+Nimman: popular but noted as noisy — not the quiet retreat some expect.
+
 ### Songkran (Thai New Year, mid-April)
 
 Expect chaos. Practical tips: use Grab cars (not scooters), carry dry bags for electronics and documents.
@@ -56,6 +62,12 @@ Hospital options across the Gulf islands vary. Ko Samui has the most established
 
 Frequently recommended as the easiest affordable entry point for digital nomad beginners. Infrastructure, cost of living, and existing nomad community lower the barrier to entry. Some long-term nomads have settled in Bangkok specifically for routine and stability after years of moving. Pollution and sleaze noted as persistent downsides.
 
+### Neighborhoods
+
+Sukhumvit 11 reportedly shifting toward a "Little India" character (as of April 2026).
+
+For quiet areas comparable to Chiang Mai's Nimman: BTS-adjacent neighborhoods recommended — Nana, Thong Lo, On Nut, Udom Suk. Talat Noi/Songwat (old town riverside area) and Ari also suggested as quieter alternatives with character.
+
 ### Food
 
 Healthy eating: Tom Kha Gai and Tom Yum widely available as lower-oil Thai options. Low-oil delivery options exist on Grab but require searching. Finding no-plastic, genuinely low-oil delivery remains difficult.
@@ -79,3 +91,11 @@ Tennis academies available for intermediate-level adult players. Kali academy me
 ## Visa & Tax
 
 Free 30-day visa extensions have been reported for travelers affected by Middle East war-related flight cancellations (as of early 2026). Confirm current policy with immigration before relying on this.
+
+### Visa Runs & Extensions (April 2026)
+
+Stricter enforcement at Bangkok airport against short (1–2 day) visa runs. Extensions now capped at 2 per year: 30 days on the first, 7 days on the second. Land border entries are ineligible for extensions. Annual stay day caps being applied and scrutiny increasing after repeated runs. Rejections reported at Nonthaburi immigration office.
+
+### DTV (Digital Traveler Visa)
+
+Generally smooth after 180 days. Occasional requests for onward tickets — airport-dependent; having one ready (or using TDAC) advisable. For remote workers: no Thai employer registration needed if employer is offshore, but tax residency risks apply if staying 180+ days in a calendar year.
