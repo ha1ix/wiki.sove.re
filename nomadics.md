@@ -10,6 +10,14 @@ Common pattern: cycling between settling (3–12 months in one place) and moving
 
 Families traveling with children while homeschooling/unschooling on the road. Cape Town and Bansko mentioned as recurring hubs with worldschooling community presence.
 
+## Connectivity & SIMs
+
+eSIM recommendations from the community (as of April 2026): Saily Ultra eSIM for data, paired with a Tello US number for maintaining a US phone number abroad (activatable outside the US using a VPN). Roamless Flex also well-regarded. Note: Tello activation requirements have changed — verify current process before relying on it.
+
+## Gear Insurance
+
+Community consensus leans toward self-insuring laptops and gear via savings and cloud backups rather than traditional insurance policies. Premiums, deductibles, and claims hassle generally outweigh the coverage for nomads.
+
 ## Health Insurance
 
 Genki frequently recommended as nomad health insurance. SafetyWing also used — reimbursement process reported as positive by some users. Key caveats for any nomad insurance: expect upfront out-of-pocket payments (reimbursement model, not direct billing), watch for exclusions, and read full policy terms before relying on coverage. Fine print matters more than brand reputation.
