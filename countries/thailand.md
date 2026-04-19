@@ -82,6 +82,14 @@ Coworking and cafe scene active but no specific venues named in this digest cycl
 
 Bangkok–Surat Thani train route: a practical 12-day itinerary with stops at Sam Roi Yot, Koh Tao, and Koh Phangan before reaching Surat Thani. A good way to see the Gulf coast without flying.
 
+## Chiang Mai / Pai
+
+### Driving
+
+International Driving Permit (IDP) is essential for renting cars — without one, insurance is void and fines apply. For scooters/bikes, enforcement is more lenient and varies by area, though having an IDP is still advisable. Physical copy required (digital not accepted). IDP can be shipped from home country via postal service if not obtained before departure.
+
+In tourist-heavy areas (Phuket especially), police checkpoints targeting foreigners on scooters are common — expect bribes if riding without proper documentation.
+
 ## Phuket
 
 ### Sports & Recreation
