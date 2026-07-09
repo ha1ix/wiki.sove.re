@@ -90,6 +90,17 @@ International Driving Permit (IDP) is essential for renting cars — without one
 
 In tourist-heavy areas (Phuket especially), police checkpoints targeting foreigners on scooters are common — expect bribes if riding without proper documentation.
 
+### Thai Driver's License — Updated Requirements (July 2026)
+
+Requirements have tightened. TM30 alone is no longer sufficient. In Krabi (and reportedly other provinces), a residency certificate is now mandatory, alongside e-Learning completion, medical certificates, and a DLT (Department of Land Transport) appointment.
+
+Workarounds and notes reported by the community:
+- Honda in Chiang Mai runs English-language motorbike courses that issue a 2-year temporary license — a practical shortcut for short-stay nomads.
+- English-friendly driving schools are hard to find in general; a driving instructor can help navigate the paperwork during a short stay.
+- Phuket has been mentioned as an easier province for foreigners to complete the process.
+- Applicants without a home-country license typically need embassy paperwork.
+- Thai language ability is not strictly required — many expats have obtained licenses without it. If one province/school is difficult, try another.
+
 ## Phuket
 
 ### Sports & Recreation

@@ -18,6 +18,13 @@ eSIM recommendations from the community (as of April 2026): Saily Ultra eSIM for
 
 Community consensus leans toward self-insuring laptops and gear via savings and cloud backups rather than traditional insurance policies. Premiums, deductibles, and claims hassle generally outweigh the coverage for nomads.
 
+## Traveling Long-Term with a Partner
+
+Reported strategies from the community:
+
+- **Avoid double rent.** Keeping a home apartment while abroad long-term is generally advised against — the sunk cost is significant.
+- **Hybrid setup.** One workable model: maintain a long-term rental in a low-cost hub (Kuala Lumpur cited as an example), store belongings with family when away, and negotiate direct landlord deals for better monthly rates instead of going through platforms.
+
 ## Health Insurance
 
 Genki frequently recommended as nomad health insurance. SafetyWing also used — reimbursement process reported as positive by some users. Key caveats for any nomad insurance: expect upfront out-of-pocket payments (reimbursement model, not direct billing), watch for exclusions, and read full policy terms before relying on coverage. Fine print matters more than brand reputation.
