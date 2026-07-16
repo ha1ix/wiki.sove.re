@@ -118,3 +118,41 @@ Stricter enforcement at Bangkok airport against short (1–2 day) visa runs. Ext
 ### DTV (Digital Traveler Visa)
 
 Generally smooth after 180 days. Occasional requests for onward tickets — airport-dependent; having one ready (or using TDAC) advisable. For remote workers: no Thai employer registration needed if employer is offshore, but tax residency risks apply if staying 180+ days in a calendar year.
+
+Applications go through thaievisa.go.th. Success rates vary noticeably by embassy — applying from a country where the local embassy has a track record of approvals matters more than the paperwork itself. Reports as of July 2026 from Spain and Vietnam among others.
+
+### Tax for Long-Stay Remote Workers (July 2026)
+
+For DTV holders and other long-stayers crossing the 180-day threshold in a calendar year, tax residency risk is real on paper but enforcement is reportedly minimal. Community understanding:
+
+- Only income actually *remitted into Thailand* is subject to declaration. Money kept offshore is not treated as Thai income in practice.
+- Many long-stay visitors skip filing entirely with no reported consequences. This is not legal advice — the risk exists, it just isn't being enforced consistently.
+- Verify against a Thai tax professional before making decisions with real money on the line.
+
+### LTR vs. Elite Visa
+
+The Long-Term Resident (LTR) visa's passive-income and investment thresholds are high enough that most nomads don't qualify. For those who want multi-year stability without meeting LTR criteria, the Elite Visa is generally cheaper over a long horizon, even accounting for its upfront fee.
+
+Applications go through thaievisa.go.th. Success rates vary noticeably by embassy — applying from a country where the local embassy has a track record of approvals matters more than the paperwork itself. Reports as of July 2026 from Spain and Vietnam among others.
+
+### Tax for Long-Stay Remote Workers (July 2026)
+
+For DTV holders and other long-stayers crossing the 180-day threshold in a calendar year, tax residency risk is real on paper but enforcement is reportedly minimal. Community understanding:
+
+- Only income actually *remitted into Thailand* is subject to declaration. Money kept offshore is not treated as Thai income in practice.
+- Many long-stay visitors skip filing entirely with no reported consequences. This is not legal advice — the risk exists, it just isn't being enforced consistently.
+- Verify against a Thai tax professional before making decisions with real money on the line.
+
+### LTR vs. Elite Visa
+
+The Long-Term Resident (LTR) visa's passive-income and investment thresholds are high enough that most nomads don't qualify. For those who want multi-year stability without meeting LTR criteria, the Elite Visa is generally cheaper over a long horizon, even accounting for its upfront fee.
+
+Applications go through **thaievisa.go.th** (online). Success rates and document requirements vary significantly by embassy — reported experiences from Spain and Vietnam differ, so check embassy-specific guidance rather than assuming a uniform process.
+
+### DTV Tax — Remittance Rule
+
+Staying 180+ days in a calendar year on a DTV triggers Thai tax residency. Practical community reading: **only funds actually brought into Thailand need to be declared** — income earned abroad and kept abroad is not treated as Thai-source income under the remittance interpretation. Long-stay visitors reportedly skip filing with little enforcement to date, but this is not a legal position, and rules/enforcement can shift. Verify with a Thai tax advisor before relying on it.
+
+### LTR vs Elite Visa
+
+Community view: the LTR's passive-income and investment thresholds are high enough that the **Elite Visa is often the cheaper long-term option** for nomads who don't already meet LTR wealth criteria. Compare total cost over the intended stay rather than sticker price.
