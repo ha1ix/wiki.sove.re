@@ -28,3 +28,24 @@ Reported strategies from the community:
 ## Health Insurance
 
 Genki frequently recommended as nomad health insurance. SafetyWing also used — reimbursement process reported as positive by some users. Key caveats for any nomad insurance: expect upfront out-of-pocket payments (reimbursement model, not direct billing), watch for exclusions, and read full policy terms before relying on coverage. Fine print matters more than brand reputation.
+
+## US LLCs for Non-Resident Nomads
+
+### Wyoming vs Delaware (July 2026)
+
+For solo-member LLCs, Wyoming is the community-preferred jurisdiction over Delaware — lower formation and annual costs, and stronger data privacy on the public register. Delaware's advantages are mostly relevant to multi-member entities or those planning outside investment.
+
+### Banking: Mercury and Traditional US Banks
+
+Mercury (fintech) is generally openable by non-resident LLC owners with an EIN and proof of address in the owner's country of residence (UAE and Italy both reported as workable). Final approval is at Mercury's discretion; expect variance.
+
+Traditional US brick-and-mortar banks are much harder without a US SSN/ITIN and a US proof of address. Reported workarounds:
+
+- Wise account documents as a proof-of-address substitute (mixed results).
+- Tello US eSIM to maintain a US phone number for verification steps. Activation abroad has become harder — some archived activation methods still work; verify before relying on it.
+
+### US LLC + Spanish Tax Residency
+
+Holding a US LLC while becoming a Spanish tax resident does **not** shield the income. Spain taxes worldwide income, and a single-member LLC is typically treated as pass-through. Community reading: unless the LLC has real substance abroad (staff, office, operations outside Spain), Spanish residents pay Spanish tax on the LLC's profits.
+
+For most nomads settling in Spain, registering locally is simpler than maintaining the US LLC — the crossover point where the US structure starts to pay off is roughly **$200–300k annual revenue**. Below that, the compliance overhead usually isn't worth it.
