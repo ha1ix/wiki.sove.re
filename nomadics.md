@@ -56,24 +56,3 @@ Reported community understanding (July 2026): Spanish tax residents with a US LL
 Practical threshold: for most freelancers, registering locally in Spain (autónomo or SL) is simpler and often cheaper in effective tax than maintaining a US LLC — until revenue reaches roughly **$200–300k/year**, at which point the analysis changes and the LLC + offshore substance route may pay off. Below that, the compliance overhead and Spanish tax exposure usually outweigh the LLC's benefits.
 
 Not tax advice — verify with a Spanish gestor before restructuring.
-
-## US LLCs for Non-Resident Nomads
-
-### Wyoming vs Delaware (July 2026)
-
-For solo-member LLCs, Wyoming is the community-preferred jurisdiction over Delaware — lower formation and annual costs, and stronger data privacy on the public register. Delaware's advantages are mostly relevant to multi-member entities or those planning outside investment.
-
-### Banking: Mercury and Traditional US Banks
-
-Mercury (fintech) is generally openable by non-resident LLC owners with an EIN and proof of address in the owner's country of residence (UAE and Italy both reported as workable). Final approval is at Mercury's discretion; expect variance.
-
-Traditional US brick-and-mortar banks are much harder without a US SSN/ITIN and a US proof of address. Reported workarounds:
-
-- Wise account documents as a proof-of-address substitute (mixed results).
-- Tello US eSIM to maintain a US phone number for verification steps. Activation abroad has become harder — some archived activation methods still work; verify before relying on it.
-
-### US LLC + Spanish Tax Residency
-
-Holding a US LLC while becoming a Spanish tax resident does **not** shield the income. Spain taxes worldwide income, and a single-member LLC is typically treated as pass-through. Community reading: unless the LLC has real substance abroad (staff, office, operations outside Spain), Spanish residents pay Spanish tax on the LLC's profits.
-
-For most nomads settling in Spain, registering locally is simpler than maintaining the US LLC — the crossover point where the US structure starts to pay off is roughly **$200–300k annual revenue**. Below that, the compliance overhead usually isn't worth it.
