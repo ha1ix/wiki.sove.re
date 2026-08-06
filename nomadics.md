@@ -39,7 +39,7 @@ Community consensus (as of July 2026) leans Wyoming over Delaware for a solo-mem
 
 An EIN is obtainable by non-US residents without SSN/ITIN (Form SS-4 by fax/mail). The friction point is banking, not the LLC itself.
 
-- **Traditional US banks** effectively require a US proof of address and SSN or ITIN. Not practical for most non-resident nomads.
+- **Traditional US banks** effectively require a US proof of address and SSN or ITIN. Not practical for most non-resident nomads. Side benefit if you do obtain an ITIN: it also builds US credit history over time, which can matter later for card/loan access.
 - **Fintech (Mercury, Wise, etc.)** is the usual path. Mercury reportedly accepts non-US owners with an EIN and proof of address in the owner's country of residence (UAE, Italy, etc. reported working), though final approval is discretionary — no guaranteed acceptance regardless of paperwork.
 - **US phone number** for verification: Tello eSIMs are a common workaround for maintaining a US number abroad. Activation-from-abroad requirements have shifted more than once — verify current process before relying on it.
 
