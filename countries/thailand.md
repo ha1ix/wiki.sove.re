@@ -119,6 +119,12 @@ Stricter enforcement at Bangkok airport against short (1–2 day) visa runs. Ext
 
 Generally smooth after 180 days. Occasional requests for onward tickets — airport-dependent; having one ready (or using TDAC) advisable. For remote workers: no Thai employer registration needed if employer is offshore, but tax residency risks apply if staying 180+ days in a calendar year.
 
+For short trips (roughly a month), DTV is overkill — tourist visa or visa-free entry is the community-recommended default. DTV only makes sense when planning to stay long enough that visa renewals become the pain point.
+
+### Banking (August 2026)
+
+Wise has been reassigning Thai user addresses, and DTV holders have reported losing Thai bank accounts as a knock-on effect. Community workaround: hold Revolut/Wise accounts opened via Georgia rather than Thailand to avoid the address churn.
+
 Applications go through thaievisa.go.th. Success rates vary noticeably by embassy — applying from a country where the local embassy has a track record of approvals matters more than the paperwork itself. Reports as of July 2026 from Spain and Vietnam among others.
 
 ### Tax for Long-Stay Remote Workers (July 2026)
