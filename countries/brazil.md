@@ -38,6 +38,12 @@ Getting a CPF online is possible but not necessary if the goal is just to pay fo
 
 Reachable from Rio for weekend or day escapes: **Búzios**, **Peró**, and **Ilha Grande**.
 
+## Paraná
+
+### Healthcare
+
+For private hospital care in smaller Paraná cities, **Unimed** is the community-recommended network — specifically the Unimed hospitals in **Maringá** and **Londrina**. **Curitiba** is the larger option with better connections, but Maringá and Londrina are viable if you want a smaller city.
+
 ## Florianópolis (Floripa)
 
 ### Work Scene
