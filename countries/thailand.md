@@ -68,6 +68,10 @@ Sukhumvit 11 reportedly shifting toward a "Little India" character (as of April 
 
 For quiet areas comparable to Chiang Mai's Nimman: BTS-adjacent neighborhoods recommended — Nana, Thong Lo, On Nut, Udom Suk. Talat Noi/Songwat (old town riverside area) and Ari also suggested as quieter alternatives with character.
 
+### Flooding (October 2026)
+
+During the September–October 2026 flooding, Sukhumvit was largely spared while other districts remained affected. Consistent with its reputation as one of the more flood-resilient central areas — a factor worth weighing for rainy-season (May–October) stays.
+
 ### Food
 
 Healthy eating: Tom Kha Gai and Tom Yum widely available as lower-oil Thai options. Low-oil delivery options exist on Grab but require searching. Finding no-plastic, genuinely low-oil delivery remains difficult.
