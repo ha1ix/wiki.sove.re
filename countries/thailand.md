@@ -34,11 +34,21 @@ As of early April 2026: air quality continuing to worsen through the season. Som
 
 ### Neighborhoods
 
-Nimman: popular but noted as noisy — not the quiet retreat some expect.
+Nimman: popular but noted as noisy — not the quiet retreat some expect. For first-time visitors, still the usual recommendation. Nimman and Old City are only 10–15 minutes apart by scooter, so choosing between them is more about character than access — a quieter condo in either can still allow socializing in the other.
+
+### Coliving
+
+Alt Coliving mentioned by name in community discussion (October 2026) as an option under consideration in the Nimman/Old City area.
 
 ### Songkran (Thai New Year, mid-April)
 
 Expect chaos. Practical tips: use Grab cars (not scooters), carry dry bags for electronics and documents.
+
+## Krabi
+
+### Cafes & Coworking
+
+Reported options (October 2026): Monkey Business (recently opened), Fika, Glasshouse, Ko Hub. On nearby Ko Lanta: Coworx.
 
 ## Pattaya
 
@@ -81,6 +91,10 @@ Coworking and cafe scene active but no specific venues named in this digest cycl
 ### Transit
 
 Bangkok–Surat Thani train route: a practical 12-day itinerary with stops at Sam Roi Yot, Koh Tao, and Koh Phangan before reaching Surat Thani. A good way to see the Gulf coast without flying.
+
+### Medium-Term Rentals (October 2026)
+
+RentHub.in.th surfaced as a listings database for apartments beyond Airbnb. Treat it as a search index, not a vetted platform — verified-listing badges don't substitute for an in-person visit before committing. Thorough research plus a physical viewing is the community-recommended default for avoiding scams.
 
 ## Chiang Mai / Pai
 
