@@ -14,6 +14,16 @@ East of the airport / Han River area near the beach is the most recommended zone
 
 Login Cafe noted as an active nomad morning spot.
 
+### Getting Around
+
+Grab (Uber-equivalent, including scooter taxis) works well and is cheap enough that renting a scooter or car is unnecessary for most stays. Scooter taxis are generally safer than driving yourself — Vietnamese traffic requires a specific mindset, though helmets are enforced and speeds are notably lower than in Thailand.
+
+## Da Lat
+
+### Cafes & Coworking
+
+Thomwork coworking space recommended after a reported five-month stay (October 2026).
+
 ## Hoi An
 
 Frequently mentioned alongside Da Nang as part of the central Vietnam corridor. Regarded as having a better atmosphere than Bangkok for those who find the Thai capital overwhelming.
