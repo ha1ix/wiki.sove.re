@@ -24,7 +24,15 @@ Northwest side (Haad Yao, Chalok Lam) regarded as the chill side of the island �
 
 Mixed reports on atmosphere. Some friction between locals and tourists reported (scooter near-misses, rudeness). Beaches and nature are the main draw; town areas less so. Best visited with low expectations for nightlife/social scene.
 
+## Hua Hin
+
+Described by at least one long-term resident as "super boring" relative to Chiang Mai or Phuket. Easy day trip from Bangkok, which makes it worth sampling before committing to a longer stay.
+
 ## Chiang Mai
+
+### Apple Repairs
+
+There is **no official Apple Store in Chiang Mai** — the nearest is in Bangkok. For battery replacements and other repairs locally, the Apple-affiliated store in **Maya Mall** is the community recommendation. Cheaper third-party shops have been reported to break Face ID during repair, so the trade-off is real.
 
 ### Air Quality & Burning Season
 
@@ -103,9 +111,17 @@ Workarounds and notes reported by the community:
 
 ## Phuket
 
+### Neighborhoods — Rawai
+
+Naiharn Beach area recommended as a base. **Rawai Beach** itself is livelier at night, with a local market and easy access to hiking at the capes. The area is walkable and safe even without a scooter — a useful property for anyone wanting to skip motorbike rental.
+
 ### Sports & Recreation
 
 Tennis academies available for intermediate-level adult players. Kali academy mentioned. Long-stay hotel/villa options near academies. Bangkok also has options (Alpha academy noted for older players).
+
+## Koh Samui + Koh Phangan Combo
+
+A month split between Koh Samui and Koh Phangan is a recurring community itinerary for people wanting a chill vibe, cafes, and weekend entertainment without the mainland pace.
 
 ## Visa & Tax
 

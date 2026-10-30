@@ -46,6 +46,19 @@ For private hospital care in smaller Paraná cities, **Unimed** is the community
 
 ## Florianópolis (Floripa)
 
+### Climate & Safety
+
+Subtropical climate — late September reported as rainy and humid. Generally safe for walking at night, with the exception of some parts of **Centro**. Internet is decent island-wide, most people make an effort to speak English, and safety is among the best in Brazil when common sense applies. Heavy traffic in summer is a real friction point.
+
+### Neighborhoods
+
+- **South and east sides (nature-oriented):** Campeche, Armação, Lagoa da Conceição.
+- **North (upscale):** Jurere.
+- **Ingleses:** large Argentine community.
+- **Centro:** has sketchy pockets; avoid walking there at odd hours.
+
+A car is effectively required if you want to reach the beach towns regularly — without one, the island shrinks fast and some find it boring after one or two weeks. If that's your experience, alternatives for the same time of year include Buenos Aires, Montevideo, or the coast south of Salvador.
+
 ### Work Scene
 
 Active tech and innovation project-management community. Reported as a viable base for ecommerce and digital marketing work, with in-person peers around.

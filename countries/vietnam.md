@@ -14,6 +14,24 @@ East of the airport / Han River area near the beach is the most recommended zone
 
 Login Cafe noted as an active nomad morning spot.
 
+## Ho Chi Minh City
+
+### Holiday Timing
+
+Western New Year brings parties and fireworks downtown — a reasonable time to be in the city if you want nightlife energy. **Vietnamese New Year (Tết)** is the opposite: shops and services shut down for an extended period. If you're planning to be in HCMC around then, stock up and don't expect normal infrastructure.
+
+## Da Nang
+
+### Dating Scene
+
+Nomad/expat dating in Da Nang is reported as generally difficult — small expat pool, not a strong local-expat mixing scene.
+
+## Hanoi
+
+### Luggage Storage
+
+Before heading to **Ha Giang** (common pre-loop stop), the practical move is leaving luggage at your accommodation in Hanoi rather than hunting for commercial storage. Most places will hold bags for returning guests.
+
 ## Hoi An
 
 Frequently mentioned alongside Da Nang as part of the central Vietnam corridor. Regarded as having a better atmosphere than Bangkok for those who find the Thai capital overwhelming.
